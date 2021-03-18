@@ -1,0 +1,1405 @@
+Rated Classical  1-0 1639 1403 French Defense: Normal Variation
+Rated Classical  1-0 1654 1919 Queen's Pawn Game: Colle System, Anti-Colle
+Rated Classical  1-0 1643 1747 Four Knights Game: Italian Variation
+Rated Bullet  0-1 1824 1973 Caro-Kann Defense: Goldman Variation
+Rated Bullet  0-1 1765 1815 French Defense: La Bourdonnais Variation
+Rated Blitz  1-0 1477 1487 Owen Defense
+Rated Blitz  0-1 1541 1500 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Classical  1-0 1765 1752 English Opening: The Whale
+Rated Classical  1-0 1445 1169 Old Benoni Defense
+Rated Blitz  0-1 1522 1428 Englund Gambit Complex: Hartlaub-Charlick Gambit
+Rated Classical  0-1 1644 1544 Modern Defense
+Rated Classical  0-1 1957 1755 French Defense: Classical Variation, Richter Attack
+Rated Classical  1-0 1656 1812 Giuoco Piano
+Rated Blitz  1-0 1436 1506 Ruy Lopez: Cozio Defense
+Rated Blitz  1/2-1/2 1878 1940 Sicilian Defense: McDonnell Attack
+Rated Classical  0-1 1742 1775 Nimzo-Larsen Attack: Modern Variation #2
+Rated Classical  1-0 1824 1811 French Defense: Advance Variation #2
+Rated Classical  1-0 1653 1395 French Defense: Normal Variation
+Rated Classical  1-0 1897 1673 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1492 1451 Bishop's Opening: Berlin Defense
+Rated Blitz  1-0 1500 1585 King's Gambit
+Rated Classical  1-0 1463 1504 Scotch Game: Benima Defense
+Rated Blitz  1-0 1554 1429 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1938 1880 Queen's Gambit Accepted: Saduleto Variation
+Rated Classical  1-0 1336 1337 King's Pawn Game: McConnell Defense
+Rated Blitz  1-0 1793 1827 Horwitz Defense
+Rated Classical  0-1 1785 1732 Modern Defense
+Rated Bullet  1-0 1981 1601 English Opening: Anglo-Indian Defense, King's Knight Variation
+Rated Classical  1-0 1711 1800 French Defense: Advance Variation #2
+Rated Classical  1-0 1421 1491 Pirc Defense #5
+Rated Bullet  1-0 1849 1728 Old Benoni Defense
+Rated Blitz  0-1 1440 1502 Italian Game: Two Knights Defense, Modern Bishop's Opening
+Rated Classical  1-0 1548 1415 Center Game #2
+Rated Bullet  0-1 1561 1503 Robatsch (Modern) Defense
+Rated Blitz  0-1 1489 1561 Bishop's Opening: Philidor Counterattack
+Rated Classical  1-0 1492 1525 Sicilian Defense
+Rated Classical  0-1 1347 1519 Scandinavian Defense
+Rated Blitz  1-0 1162 1244 Van't Kruijs Opening
+Rated Classical  1-0 1627 1633 English Defense
+Rated Blitz  0-1 1360 1722 Queen's Pawn Game: Colle System, Anti-Colle
+Rated Classical  0-1 1769 1799 Italian Game: Evans Gambit, Lasker Defense
+Rated Blitz  1-0 1533 1712 Caro-Kann Defense
+Rated Classical  0-1 1744 1773 French Defense: Horwitz Attack
+Rated Bullet  0-1 1720 1865 Alekhine Defense: John Tracy Gambit
+Rated Bullet  0-1 1871 1714 Van Geet Opening
+Rated Bullet  0-1 1500 1511 Mikenas Defense
+Rated Blitz  1-0 1179 1223 Van't Kruijs Opening
+Rated Classical  1-0 1341 1290 Italian Game: Two Knights Defense, Open Variation
+Rated Blitz  1-0 1511 1430 English Opening
+Rated Bullet  1-0 1577 1331 Queen's Gambit Refused: Baltic Defense
+Rated Classical  0-1 1472 1504 Sicilian Defense: Nyezhmetdinov-Rossolimo Attack
+Rated Classical  1/2-1/2 1725 1785 French Defense: Advance Variation #2
+Rated Bullet  0-1 1729 1856 Caro-Kann Defense
+Rated Classical  0-1 1668 1907 Rat Defense: Antal Defense
+Rated Bullet  1-0 1856 1729 Sicilian Defense: Hyperaccelerated Dragon
+Rated Bullet  0-1 1856 1786 Englund Gambit
+Rated Classical  1-0 1351 1542 Scandinavian Defense
+Rated Blitz  1-0 1695 1757 Sicilian Defense: Alapin Variation
+Rated Blitz  0-1 1421 1520 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Classical  0-1 1556 1525 Center Game: Berger Variation
+Rated Bullet  0-1 1722 1863 Sicilian Defense: Dragon Variation, Modern Bc4 Variation
+Rated Bullet  0-1 1270 1646 English Defense #2
+Rated Bullet  1-0 1649 1242 Nimzo-Larsen Attack: Classical Variation
+Rated Bullet  1-0 1871 1627 Philidor Defense #3
+Rated Classical  1-0 1514 1550 Queen's Gambit Declined
+Rated Bullet  1-0 1799 1634 Sicilian Defense: McDonnell Attack
+Rated Bullet  0-1 1749 1843 Sicilian Defense: French Variation
+Rated Blitz  0-1 1549 1609 Italian Game: Two Knights Defense, Modern Bishop's Opening
+Rated Classical  0-1 1366 1440 French Defense: Advance Variation #3
+Rated Bullet  1-0 1870 1715 Sicilian Defense: Smith-Morra Gambit
+Rated Bullet  0-1 1220 1652 English Defense #2
+Rated Bullet  0-1 1627 1806 Zukertort Opening: Queenside Fianchetto Variation
+Rated Bullet  1-0 1731 1517 Modern Defense
+Rated Blitz  0-1 1621 1661 French Defense: Advance Variation
+Rated Classical  0-1 1499 1895 Italian Game: Anti-Fried Liver Defense
+Rated Blitz  1-0 1706 1570 Philidor Defense: Nimzowitsch Variation
+Rated Bullet  0-1 1851 1740 Slav Defense: Two Knights Attack
+Rated Blitz  0-1 1081 ? Sicilian Defense
+Rated Classical  1-0 1513 1433 Horwitz Defense
+Rated Bullet  1-0 1812 1621 Sicilian Defense: Smith-Morra Gambit #2
+Rated Bullet  0-1 1755 1837 Sicilian Defense: French Variation
+Rated Bullet  0-1 1863 1737 Scandinavian Defense
+Rated Bullet  0-1 1203 1654 English Defense #2
+Rated Classical  1-0 1782 1666 Italian Game: Two Knights Defense, Modern Bishop's Opening
+Rated Blitz  0-1 1888 1771 French Defense: Knight Variation
+Rated Bullet  1-0 1615 1511 Zukertort Opening: Kingside Fianchetto
+Rated Classical  1-0 1622 1576 King's Pawn Game: Beyer Gambit
+Rated Classical  1-0 1528 1526 Philidor Defense #3
+Rated Bullet  0-1 1844 1753 Scandinavian Defense
+Rated Bullet  0-1 1845 1746 Semi-Slav Defense
+Rated Bullet  1-0 1656 1431 Nimzo-Larsen Attack
+Rated Bullet  1-0 1876 1877 French Defense: Normal Variation
+Rated Classical  1-0 1646 1678 Three Knights Opening
+Rated Classical  0-1 1510 1805 Scandinavian Defense: Main Line
+Rated Bullet  0-1 1244 1857 English Opening: Anglo-Indian Defense
+Rated Classical  1-0 1898 1496 Ruy Lopez: Berlin Defense, Rio Gambit Accepted
+Rated Bullet  1-0 1656 1431 Nimzo-Larsen Attack: Spike Variation
+Rated Bullet  1-0 1503 1624 Nimzo-Larsen Attack: English Variation
+Rated Classical  1-0 1638 1795 Queen's Gambit Declined: Normal Defense
+Rated Bullet  1-0 1827 1426 Modern Defense: Geller's System
+Rated Bullet  1-0 1624 1503 Zukertort Opening: Kingside Fianchetto
+Rated Bullet  1-0 1662 1586 Nimzo-Larsen Attack: Symmetrical Variation
+Rated Bullet  1-0 1832 1752 Caro-Kann Defense
+Rated Bullet  0-1 1761 1832 Sicilian Defense: French Variation
+Rated Bullet  1-0 1709 1768 Caro-Kann Defense: Panov Attack, Gunderam Attack
+Rated Bullet  0-1 1586 1662 Van Geet Opening
+Rated Bullet  1-0 1830 1423 Modern Defense: Geller's System
+Rated Bullet  0-1 1495 1631 Van't Kruijs Opening
+Rated Bullet  1-0 1672 1577 Nimzo-Larsen Attack
+Rated Blitz  1-0 1874 1947 Sicilian Defense
+Rated Classical  0-1 1630 1783 French Defense: Advance Variation #2
+Rated Bullet  1-0 1840 1599 Queen's Gambit Declined: Queen's Knight Variation
+Rated Bullet  0-1 1754 1886 Alekhine Defense
+Rated Classical  1-0 1657 1789 King's Pawn Game
+Rated Bullet  1-0 1638 1487 Zukertort Opening: Queen's Gambit Invitation
+Rated Blitz  1-0 1576 1576 Italian Game: Anti-Fried Liver Defense
+Rated Classical  1-0 1913 1663 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1569 1681 Mieses Opening
+Rated Blitz  1-0 1577 1755 Vienna Game: Stanley Variation
+Rated Bullet  1-0 1595 1845 Hungarian Opening: Sicilian Invitation
+Rated Bullet  1-0 1690 1561 Nimzo-Larsen Attack
+Rated Blitz  0-1 1341 1516 Sicilian Defense: Loewenthal Variation
+Rated Bullet  0-1 1553 1698 Mieses Opening
+Rated Bullet  1-0 1843 1928 French Defense: Advance Variation, Paulsen Attack
+Rated Bullet  1-0 1698 1553 Nimzo-Larsen Attack
+Rated Blitz  1-0 1887 1934 Sicilian Defense
+Rated Bullet  1-0 1859 1747 Scandinavian Defense
+Rated Blitz  1-0 1603 1449 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1546 1705 Van't Kruijs Opening
+Rated Bullet  1-0 1743 1827 Sicilian Defense: French Variation
+Rated Blitz  1/2-1/2 1739 1594 Queen's Gambit Refused: Marshall Defense
+Rated Bullet  1-0 1688 1562 Nimzo-Larsen Attack
+Rated Blitz  0-1 1632 1527 Sicilian Defense: Kan Variation, Knight Variation
+Rated Bullet  1-0 1868 1738 Scandinavian Defense
+Rated Classical  1-0 1500 1732 Four Knights Game: Scotch Variation Accepted
+Rated Bullet  1-0 1516 1480 Modern Defense
+Rated Bullet  0-1 1231 1814 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1612 1555 Queen's Pawn Game #2
+Rated Bullet  1-0 1879 1237 Zukertort Opening: Wade Defense
+Rated Bullet  1-0 1815 1222 Queen's Gambit Refused: Austrian Defense
+Rated Bullet  1-0 1877 1319 French Defense: Advance Variation #3
+Rated Bullet  0-1 1367 1555 French Defense: Knight Variation
+Rated Classical  1-0 1507 1617 Bishop's Opening: Vienna Hybrid
+Rated Classical  1-0 1542 1404 Scandinavian Defense: Modern Variation #2
+Rated Blitz  1-0 1540 1653 Sicilian Defense: Paulsen Variation
+Rated Bullet  0-1 1214 1816 Sicilian Defense: Bowdler Attack
+Rated Bullet  1-0 1878 1243 Modern Defense
+Rated Bullet  0-1 1600 1863 Indian Game
+Rated Blitz  1-0 1599 1734 French Defense: Advance Variation, Nimzowitsch System
+Rated Bullet  0-1 1242 1561 Horwitz Defense
+Rated Blitz  0-1 1899 1921 Sicilian Defense
+Rated Bullet  1-0 1817 1207 Queen's Gambit Refused: Austrian Defense
+Rated Blitz  1-0 1609 1443 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1664 1790 French Defense: Advance Variation #2
+Rated Bullet  0-1 1554 1564 Pirc Defense #5
+Rated Bullet  1-0 1880 1855 Giuoco Piano
+Rated Blitz  1/2-1/2 1869 1649 French Defense: Exchange Variation
+Rated Classical  1-0 1814 1717 Benoni Defense: Old Benoni
+Rated Blitz  1-0 1523 1500 Slav Defense: Geller Gambit #2
+Rated Classical  0-1 1465 1562 Sicilian Defense: Katalimov Variation
+Rated Classical  1-0 1521 1539 Vienna Game: Zhuravlev Countergambit #2
+Rated Bullet  0-1 1200 1818 Sicilian Defense: Bowdler Attack
+Rated Classical  0-1 1659 1920 Rat Defense: Antal Defense
+Rated Bullet  1/2-1/2 1543 1575 Gedult's Opening
+Rated Blitz  1-0 1552 1478 Scotch Game
+Rated Blitz  0-1 1889 1932 Sicilian Defense: Smith-Morra Gambit #2
+Rated Bullet  1-0 1819 1194 Queen's Gambit Accepted
+Rated Bullet  0-1 1236 1532 English Opening: King's English Variation, Two Knights Variation
+Rated Bullet  1-0 1892 1574 Scandinavian Defense
+Rated Classical  0-1 1777 1775 Queen's Gambit Accepted: Old Variation
+Rated Bullet  1-0 1567 1544 Queen's Gambit Accepted: Normal Variation
+Rated Bullet  0-1 1188 1820 Queen's Pawn Game: Franco-Sicilian Defense
+Rated Classical  1-0 1802 1734 Robatsch (Modern) Defense
+Rated Bullet  0-1 1756 1548 Caro-Kann Defense
+Rated Bullet  1-0 1896 1571 Nimzowitsch Defense, Declined Variation
+Rated Blitz  1-0 1722 1747 Sicilian Defense: Paulsen Variation, Normal Variation
+Rated Bullet  1-0 1900 1568 Barnes Defense
+Rated Blitz  1-0 1616 1436 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1395 1485 Scandinavian Defense: Gubinsky-Melts Defense
+Rated Blitz  1-0 1642 1615 Sicilian Defense: French Variation, Open
+Rated Blitz  1-0 1555 1563 Four Knights Game: Italian Variation
+Rated Bullet  0-1 1231 1452 English Opening
+Rated Bullet  1-0 1904 1564 Pirc Defense #4
+Rated Bullet  1-0 1821 1740 Queen's Gambit Accepted
+Rated Blitz  0-1 1880 1941 Sicilian Defense
+Rated Bullet  0-1 1152 1892 French Defense #2
+Rated Bullet  0-1 1461 1462 Vienna Game
+Rated Blitz  1-0 1408 1441 Nimzowitsch Defense
+Rated Bullet  0-1 1148 1896 French Defense #2
+Rated Bullet  0-1 1731 1830 Sicilian Defense: McDonnell Attack
+Rated Bullet  1-0 1907 1561 Rat Defense: Small Center Defense
+Rated Bullet  1-0 1907 1561 Barnes Defense
+Rated Bullet  1-0 1899 1565 Caro-Kann Defense
+Rated Bullet  0-1 1145 1844 Italian Game: Giuoco Pianissimo
+Rated Bullet  1-0 1839 1724 Queen's Gambit Accepted
+Rated Bullet  1-0 1911 1558 Barnes Defense
+Rated Blitz  0-1 1871 1951 Sicilian Defense
+Rated Blitz  1-0 1420 1167 Four Knights Game: Italian Variation
+Rated Bullet  1-0 1914 1333 Alekhine Defense: Brooklyn Variation
+Rated Bullet  1-0 1654 1555 Queen's Pawn
+Rated Bullet  0-1 1182 1457 French Defense #2
+Rated Bullet  1-0 1595 1535 Queen's Pawn
+Rated Bullet  1-0 1709 1547 French Defense: Normal Variation
+Rated Bullet  1-0 1378 1483 Philidor Defense #2
+Rated Bullet  1-0 1709 1547 French Defense: Normal Variation
+Rated Bullet  0-1 1716 1848 Sicilian Defense: McDonnell Attack
+Rated Bullet  1-0 1915 1142 Italian Game
+Rated Blitz  1-0 1566 1469 Italian Game: Anti-Fried Liver Defense
+Rated Bullet  1-0 1844 1541 French Defense: King's Indian Attack
+Rated Bullet  0-1 1223 1746 English Opening: King's English Variation
+Rated Blitz  0-1 1561 1604 Scotch Game
+Rated Bullet  1-0 1916 1526 Scandinavian Defense
+Rated Bullet  1-0 1604 1537 Horwitz Defense
+Rated Bullet  0-1 1140 1848 French Defense #2
+Rated Blitz  1-0 1638 1431 Queen's Gambit Accepted: Rosenthal Variation
+Rated Bullet  1-0 1613 1527 Indian Game: Tartakower Attack
+Rated Bullet  1-0 1855 1709 Semi-Slav Defense: Anti-Moscow Gambit
+Rated Blitz  0-1 1622 1654 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation
+Rated Bullet  1-0 1919 1621 Scandinavian Defense
+Rated Bullet  1-0 1221 1518 Mieses Opening
+Rated Bullet  1-0 1621 1518 Englund Gambit Declined, Reversed French
+Rated Classical  0-1 1542 1707 Four Knights Game
+Rated Bullet  1/2-1/2 1923 1752 Philidor Defense #3
+Rated Bullet  0-1 1703 1863 Sicilian Defense: McDonnell Attack
+Rated Bullet  1-0 1849 1137 Italian Game: Anti-Fried Liver Defense
+Rated Classical  0-1 1570 1470 French Defense: Tarrasch Variation
+Rated Classical  1-0 1925 1654 Sicilian Defense
+Rated Blitz  1-0 1863 1864 Caro-Kann Defense
+Rated Blitz  0-1 1882 1665 Old Benoni Defense
+Rated Blitz  0-1 1425 1128 Bishop's Opening: Boi Variation
+Rated Blitz  0-1 1347 1643 Indian Game: Wade-Tartakower Defense
+Rated Classical  0-1 1550 1654 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1629 1509 Horwitz Defense
+Rated Bullet  1-0 1870 1696 Semi-Slav Defense: Botvinnik Variation
+Rated Bullet  1-0 1918 1134 Elephant Gambit
+Rated Classical  1-0 1768 1830 St. George Defense: New St. George, Traditional Line
+Rated Bullet  1-0 1615 1525 Queen's Pawn
+Rated Classical  0-1 1765 1715 Old Benoni Defense
+Rated Bullet  1-0 1126 1500 Philidor Defense #3
+Rated Classical  1-0 1457 1533 Scotch Game
+Rated Blitz  1-0 1614 1551 Philidor Defense #2
+Rated Bullet  0-1 1132 1918 French Defense #2
+Rated Bullet  1-0 1623 1516 Indian Game
+Rated Bullet  0-1 1690 1876 Sicilian Defense: Alapin Variation
+Rated Bullet  1-0 1919 1130 Italian Game: Anti-Fried Liver Defense
+Rated Classical  0-1 1726 1958 Sicilian Defense: Bowdler Attack
+Rated Bullet  1-0 1631 1508 Queen's Pawn Game #2
+Rated Bullet  0-1 1128 1919 French Defense #2
+Rated Bullet  1-0 1882 1685 Queen's Gambit Refused: Chigorin Defense, Janowski Variation
+Rated Bullet  1-0 1919 1743 Caro-Kann Defense
+Rated Blitz  1-0 1281 1647 Nimzowitsch Defense: Kennedy Variation
+Rated Bullet  0-1 1638 1500 Horwitz Defense
+Rated Classical  0-1 1562 1556 Van't Kruijs Opening
+Rated Blitz  0-1 1672 1795 Old Benoni Defense
+Rated Bullet  1-0 1920 1516 French Defense: Knight Variation
+Rated Bullet  0-1 1100 1208 Three Knights Opening
+Rated Bullet  0-1 1524 1888 Sicilian Defense: Delayed Alapin Variation
+Rated Blitz  1-0 1861 1853 Queen's Pawn
+Rated Blitz  0-1 1803 1665 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1344 1252 Bishop's Opening: Vienna Hybrid, Spielmann Attack
+Rated Bullet  0-1 1246 1850 Italian Game: Giuoco Pianissimo
+Rated Blitz  1-0 1874 1685 Old Benoni Defense
+Rated Classical  0-1 1470 1637 Scotch Game: Classical Variation
+Rated Classical  0-1 1584 1663 Sicilian Defense: Bowdler Attack
+Rated Classical  1-0 1541 1663 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1680 1786 Old Benoni Defense
+Rated Classical  0-1 1283 1224 King's Pawn Game: Damiano Defense
+Rated Bullet  0-1 1521 1891 Sicilian Defense: Delayed Alapin Variation
+Rated Blitz  1-0 1881 1669 Horwitz Defense
+Rated Classical  0-1 1643 1786 French Defense: Advance Variation #2
+Rated Blitz  1-0 1627 1316 English Opening: Anglo-Indian Defense
+Rated Bullet  1-0 1894 1518 Old Benoni Defense
+Rated Blitz  1-0 1480 1649 Ruy Lopez: Steinitz Defense
+Rated Bullet  0-1 1516 1899 Van Geet Opening
+Rated Blitz  0-1 1496 1550 Sicilian Defense: Bowdler Attack
+Rated Blitz  0-1 1490 1500 Philidor Defense #2
+Rated Blitz  0-1 1887 1623 Queen's Pawn Game
+Rated Blitz  1/2-1/2 1771 1693 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1516 1896 Van't Kruijs Opening
+Rated Classical  0-1 1519 1572 Bishop's Opening: Vienna Hybrid
+Rated Bullet  1-0 1896 1516 Queen's Gambit Accepted: Showalter Variation
+Rated Blitz  0-1 1482 1336 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1098 1514 Queen's Pawn Game: Zukertort Variation
+Rated Bullet  0-1 1095 1516 Queen's Pawn
+Rated Bullet  0-1 1095 1516 Owen Defense: Smith Gambit
+Rated Blitz  1-0 1696 1768 Benoni Defense: Benoni Gambit Accepted
+Rated Classical  0-1 1595 1546 Sicilian Defense: Staunton-Cochrane Variation
+Rated Correspondence  1-0 1200 ? Old Benoni Defense
+Rated Classical  0-1 1567 1650 Blackmar-Diemer Gambit: Gedult Gambit
+Rated Classical  0-1 1510 1581 Vienna Game: Max Lange Defense
+Rated Bullet  1-0 1902 1518 Old Indian Defense
+Rated Bullet  0-1 1623 1683 Benoni Defense: Benoni Gambit Accepted
+Rated Blitz  1-0 1487 1640 French Defense #2
+Rated Bullet  0-1 1515 1904 Van Geet Opening
+Rated Blitz  1-0 1754 1708 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1866 1500 Canard Opening
+Rated Bullet  1-0 1904 1515 Old Indian Defense
+Rated Bullet  0-1 1513 1907 Mieses Opening
+Rated Classical  1-0 1793 1731 Russian Game: Modern Attack, Center Variation
+Rated Blitz  0-1 1469 1425 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1588 1642 King's Gambit Accepted, MacLeod Defense
+Rated Classical  1-0 1388 1272 Sicilian Defense: Smith-Morra Gambit #2
+Rated Bullet  1-0 1909 1510 English Defense #2
+Rated Blitz  1/2-1/2 1851 1940 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1510 1909 Van't Kruijs Opening
+Rated Bullet  1-0 1912 1508 Old Indian Defense
+Rated Bullet  0-1 1508 1912 Van Geet Opening
+Rated Bullet  1-0 1912 1508 Queen's Pawn Game: Anglo-Slav Opening
+Rated Classical  0-1 1557 1590 Nimzowitsch Defense: Kennedy Variation, Keres Attack
+Rated Bullet  1-0 1914 1506 English Defense #2
+Rated Blitz  1-0 1474 1508 Zukertort Opening: Reversed Mexican Defense
+Rated Bullet  0-1 1529 1890 Zukertort Opening: Sicilian Invitation
+Rated Bullet  1-0 1506 1914 Hungarian Opening: Sicilian Invitation
+Rated Blitz  0-1 1629 1502 Englund Gambit Declined, Reversed French
+Rated Classical  0-1 1396 1526 Ruy Lopez: Cozio Defense
+Rated Bullet  1-0 1890 1529 Queen's Pawn Game: Anglo-Slav Opening
+Rated Classical  1-0 1775 1773 French Defense: Winawer Variation, Fingerslip Variation
+Rated Classical  0-1 1516 1532 Queen's Gambit Accepted: Central Variation, Greco Variation
+Rated Blitz  1-0 1670 1853 French Defense: Knight Variation
+Rated Blitz  0-1 1457 1639 Caro-Kann Defense: Exchange Variation, Rubinstein Variation
+Rated Classical  1-0 1562 1558 King's Gambit Declined, Queen's Knight Defense
+Rated Bullet  1-0 1500 1092 Queen's Gambit Declined: Alekhine Variation
+Rated Classical  0-1 1512 1647 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  0-1 1432 1262 Sicilian Defense: O'Kelly Variation, Normal System
+Rated Classical  1-0 1874 1720 Benoni Defense: Benoni Gambit Accepted
+Rated Bullet  0-1 1157 1548 Zukertort Opening: Nimzo-Larsen Variation
+Rated Classical  0-1 1501 1494 Owen Defense
+Rated Blitz  0-1 1838 1856 Center Game Accepted
+Rated Bullet  1-0 1513 1893 French Defense: Advance Variation, Nimzowitsch System
+Rated Classical  1-0 1608 1036 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  0-1 1549 1456 Ruy Lopez: Berlin Defense #2
+Rated Blitz  1-0 1517 1568 Philidor Defense #2
+Rated Bullet  1-0 1869 1526 Horwitz Defense
+Rated Blitz  1/2-1/2 1865 1633 Alekhine Defense: Scandinavian Variation, Geschev Gambit
+Rated Blitz  0-1 1473 1480 Sicilian Defense: Closed Variation
+Rated Bullet  1-0 1957 2036 Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense
+Rated Blitz  1-0 1903 1609 Gruenfeld Defense: Russian Variation, Accelerated Variation
+Rated Bullet  0-1 1993 1976 English Opening: Anglo-Scandinavian Defense, Schulz Gambit
+Rated Bullet  0-1 1523 1872 Van't Kruijs Opening
+Rated Classical  1-0 1489 1546 Vienna Game: Stanley Variation
+Rated Bullet  1-0 1876 1520 Slav Defense #2
+Rated Classical  0-1 1389 1533 Caro-Kann Defense: Panov Attack, Gunderam Attack
+Rated Blitz  1-0 1828 1646 Queen's Pawn Game
+Rated Bullet  1-0 1596 1535 Benoni Defense: Old Benoni
+Rated Bullet  0-1 1516 1879 Zukertort Opening: Sicilian Invitation
+Rated Classical  0-1 1304 1648 Scandinavian Defense: Main Line
+Rated Bullet  1-0 1879 1516 Slav Defense #3
+Rated Bullet  0-1 1513 1882 Van't Kruijs Opening
+Rated Bullet  1-0 1882 1513 Horwitz Defense
+Rated Classical  0-1 1394 1727 Queen's Gambit Accepted: Old Variation
+Rated Classical  1-0 1035 1608 Van't Kruijs Opening
+Rated Bullet  1-0 1993 1959 Catalan Opening: Closed Variation
+Rated Bullet  0-1 1510 1885 Van Geet Opening
+Rated Classical  0-1 1500 1500 Russian Game: Urusov Gambit
+Rated Classical  0-1 1721 1712 Benoni Defense: Benoni Gambit Accepted
+Rated Bullet  1-0 1885 1510 Queen's Pawn
+Rated Blitz  0-1 1639 1834 English Opening: Agincourt Defense
+Rated Classical  1-0 1576 1655 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1707 1527 Queen's Gambit Accepted: Central Variation, Modern Defense
+Rated Bullet  0-1 1507 1888 Hungarian Opening: Sicilian Invitation
+Rated Bullet  1-0 1891 1504 English Defense #2
+Rated Bullet  0-1 1504 1891 Hungarian Opening: Sicilian Invitation
+Rated Blitz  0-1 1530 1625 Philidor Defense #4
+Rated Bullet  1-0 1894 1502 English Defense #2
+Rated Blitz  0-1 1461 1679 Ruy Lopez: Exchange Variation, Lutikov Variation
+Rated Correspondence  0-1 1200 ? Alekhine Defense: John Tracy Gambit
+Rated Bullet  1-0 1502 1894 Hungarian Opening: Sicilian Invitation
+Rated Classical  0-1 1502 1720 Vienna Game: Stanley Variation, Three Knights Variation
+Rated Blitz  1-0 1841 1758 Queen's Pawn Game
+Rated Bullet  1-0 1869 1527 Queen's Pawn
+Rated Classical  1-0 1803 1820 Caro-Kann Defense: Advance Variation
+Rated Bullet  0-1 2007 1931 Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense
+Rated Blitz  1-0 1684 1417 Sicilian Defense: Old Sicilian
+Rated Bullet  0-1 1523 1872 Bird Opening
+Rated Classical  0-1 1517 1282 Three Knights Opening #2
+Rated Classical  0-1 1383 1641 Scandinavian Defense
+Rated Bullet  1-0 1876 1520 Old Indian Defense
+Rated Bullet  1/2-1/2 1520 1876 Van't Kruijs Opening
+Rated Classical  1-0 1301 1535 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  1/2-1/2 1633 1456 Pirc Defense: Classical Variation, Quiet System
+Rated Bullet  1-0 1965 1989 English Opening: Symmetrical Variation, Three Knights Variation
+Rated Bullet  0-1 1242 1537 Italian Game: Two Knights Defense, Modern Bishop's Opening
+Rated Bullet  1-0 1865 1516 Old Indian Defense
+Rated Blitz  0-1 1750 1851 French Defense: Knight Variation
+Rated Bullet  0-1 1516 1865 Mieses Opening
+Rated Classical  0-1 1497 1931 Vienna Game
+Rated Bullet  1-0 1868 1513 Queen's Pawn
+Rated Classical  0-1 1605 1651 Sicilian Defense: Delayed Alapin
+Rated Classical  0-1 1641 1500 King's Gambit Accepted, Schallopp Defense
+Rated Bullet  0-1 1513 1868 Zukertort Opening: Sicilian Invitation
+Rated Bullet  1-0 1872 1509 Horwitz Defense
+Rated Bullet  0-1 1509 1872 Zukertort Opening: Sicilian Invitation
+Rated Bullet  1-0 1872 1509 Queen's Pawn
+Rated Bullet  0-1 1509 1872 Van't Kruijs Opening
+Rated Bullet  0-1 1875 1506 English Defense #2
+Rated Bullet  0-1 1506 1875 Gedult's Opening
+Rated Blitz  1-0 1574 1461 Pirc Defense: Classical Variation, Quiet System
+Rated Bullet  1-0 1875 1506 Old Indian Defense
+Rated Classical  0-1 1645 1679 Queen's Gambit Accepted
+Rated Blitz  0-1 1860 1742 Englund Gambit
+Rated Bullet  1-0 1223 1521 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1503 1878 Van't Kruijs Opening
+Rated Classical  1-0 1495 1814 French Defense: Queen's Knight
+Rated Classical  1-0 1498 1522 King's Pawn Game: Tayler Opening
+Rated Classical  0-1 1161 1358 English Opening: The Whale
+Rated Bullet  1-0 1882 1500 Horwitz Defense
+Rated Classical  0-1 1363 1154 French Defense: Steinitz Attack
+Rated Bullet  0-1 1497 1885 Old Benoni Defense
+Rated Classical  1-0 1302 1503 French Defense: Steinitz Attack
+Rated Bullet  0-1 1316 1470 French Defense #2
+Rated Bullet  1-0 1888 1494 Englund Gambit
+Rated Bullet  0-1 1494 1888 Sicilian Defense
+Rated Blitz  1-0 1878 1771 Modern Defense
+Rated Bullet  1-0 1888 1494 Queen's Gambit Refused: Albin Countergambit
+Rated Classical  1-0 1510 1511 Queen's Pawn
+Rated Classical  1-0 1635 1594 King's Indian Defense
+Rated Bullet  0-1 1315 1477 Nimzo-Larsen Attack
+Rated Classical  1-0 1313 1326 Sicilian Defense: Alapin Variation
+Rated Bullet  0-1 1491 1891 Benoni Defense: Benoni Gambit Accepted
+Rated Bullet  1-0 1287 1591 Italian Game: Giuoco Pianissimo
+Rated Classical  0-1 1176 1346 King's Pawn Game: Leonardis Variation
+Rated Bullet  1-0 1891 1491 Old Indian Defense
+Rated Bullet  0-1 1488 1893 Sicilian Defense
+Rated Bullet  0-1 1571 1365 King's Pawn Game: Busch-Gass Gambit
+Rated Classical  1-0 1459 1445 Italian Game: Two Knights Defense, Knight Attack
+Rated Blitz  1-0 1796 1723 English Opening: King's English Variation
+Rated Bullet  1-0 1896 1485 Old Indian Defense
+Rated Bullet  0-1 1485 1896 Mieses Opening
+Rated Blitz  0-1 1582 1310 Alekhine Defense: Scandinavian Variation
+Rated Bullet  1-0 1896 1485 Englund Gambit
+Rated Bullet  1-0 1482 1899 Queen's Pawn Game: Franco-Sicilian Defense
+Rated Classical  0-1 1352 1168 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1756 1763 Modern Defense
+Rated Bullet  1-0 1430 1510 Caro-Kann Defense: Hillbilly Attack
+Rated Bullet  1-0 1871 1510 Semi-Slav Defense: Accelerated Move Order
+Rated Bullet  1-0 1400 1341 Philidor Defense #3
+Rated Classical  0-1 1378 1320 Ruy Lopez Defense, Halloween Attack
+Rated Bullet  1-0 1871 1510 Queen's Gambit Refused: Albin Countergambit
+Rated Blitz  0-1 1774 1746 Bishop's Opening
+Rated Bullet  1-0 1495 1477 Queen's Gambit Refused: Chigorin Defense #3
+Rated Blitz  0-1 1381 1342 Alekhine Defense: Modern Variation, Schmid Variation
+Rated Bullet  0-1 1506 1875 Queen's Pawn Game: Franco-Sicilian Defense
+Rated Classical  1-0 1645 1662 Slav Defense #2
+Rated Bullet  0-1 1444 1507 Modern Defense
+Rated Classical  0-1 1581 1594 Sicilian Defense: Paulsen Variation, Normal Variation
+Rated Bullet  1-0 1851 1483 Modern Defense
+Rated Classical  0-1 1843 1795 English Opening: Symmetrical Variation
+Rated Classical  0-1 1499 1521 Sicilian Defense: Smith-Morra Gambit #2
+Rated Bullet  1-0 1851 1481 Horwitz Defense
+Rated Bullet  1-0 1516 1417 Queen's Gambit Accepted
+Rated Bullet  1-0 1408 1092 English Opening: King's English Variation
+Rated Classical  0-1 1413 1473 Queen's Pawn Game #3
+Rated Bullet  1-0 1502 1554 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Blitz  0-1 1431 1391 Alekhine Defense: Two Pawn Attack
+Rated Bullet  0-1 1554 1502 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1854 1855 Queen's Pawn Game: Franco-Sicilian Defense
+Rated Bullet  0-1 1395 1525 Caro-Kann Defense: Hillbilly Attack
+Rated Classical  0-1 1189 1554 King's Pawn Game: Leonardis Variation
+Rated Classical  0-1 1434 1707 Queen's Pawn Game: Zukertort Variation
+Rated Bullet  0-1 1525 1395 Queen's Gambit Accepted
+Rated Bullet  0-1 1878 1503 Queen's Pawn
+Rated Blitz  0-1 1757 1886 Caro-Kann Defense
+Rated Classical  1-0 1657 1649 Slav Defense #2
+Rated Bullet  0-1 1435 1478 Borg Defense
+Rated Blitz  1/2-1/2 1614 1360 Alekhine Defense: Scandinavian Variation
+Rated Bullet  1-0 1867 1840 Sicilian Defense: French Variation
+Rated Bullet  0-1 1516 1539 King's Gambit Accepted, King's Knight Gambit
+Rated Classical  1-0 1358 1166 King's Pawn Game: Damiano Defense
+Rated Classical  1-0 1719 1488 Zukertort Opening: Queen's Gambit Invitation
+Rated Classical  0-1 1334 1273 Russian Game: Three Knights Game
+Rated Classical  1-0 1808 1830 Queen's Gambit Declined
+Rated Classical  0-1 1568 1760 French Defense: Classical Variation
+Rated Bullet  0-1 1433 1486 Modern Defense
+Rated Bullet  1-0 1826 1879 Queen's Gambit Declined: Queen's Knight Variation
+Rated Classical  0-1 1443 1531 Queen's Pawn Game: Mason Attack
+Rated Classical  1-0 1363 1482 Alekhine Defense: Maroczy Variation
+Rated Bullet  0-1 1411 1551 Italian Game: Giuoco Pianissimo
+Rated Bullet  0-1 1864 1843 Franco-Benoni Defense
+Rated Bullet  1-0 1505 1404 King's Gambit Accepted, Schallopp Defense
+Rated Classical  0-1 1500 1540 Sicilian Defense: Closed Variation
+Rated Bullet  1-0 1858 1851 Queen's Gambit Declined: Queen's Knight Variation
+Rated Bullet  1-0 1395 1558 King's Pawn Game: King's Head Opening #2
+Rated Blitz  0-1 1694 1815 Queen's Pawn Game: Krause Variation
+Rated Classical  0-1 1500 1637 Scandinavian Defense
+Rated Bullet  0-1 1893 1513 Zukertort Opening: Tennison Gambit
+Rated Blitz  0-1 1467 1372 Alekhine Defense: Scandinavian Variation
+Rated Classical  1-0 1378 1366 French Defense: Steinitz Attack
+Rated Blitz  0-1 1522 1664 Sicilian Defense: Bowdler Attack
+Rated Blitz  0-1 1394 1508 Sicilian Defense: Alapin Variation
+Rated Blitz  1-0 1658 1386 Queen's Pawn Game: Symmetrical Variation
+Rated Blitz  1-0 1658 1659 Queen's Pawn
+Rated Classical  1-0 1430 1070 Zukertort Opening: Queen's Gambit Invitation
+Rated Classical  0-1 1471 1561 Sicilian Defense
+Rated Blitz  1-0 1515 1671 Modern Defense
+Rated Bullet  0-1 1572 1541 English Opening: King's English Variation, Reversed Closed Sicilian
+Rated Blitz  1-0 1516 1382 King's Indian Defense
+Rated Bullet  1-0 1874 1871 Sicilian Defense: Smith-Morra Gambit Deferred
+Rated Blitz  0-1 1750 1822 Philidor Defense #4
+Rated Classical  1-0 1820 1483 French Defense: Rubinstein Variation
+Rated Blitz  0-1 1699 1831 Horwitz Defense
+Rated Classical  1-0 1389 1308 Scotch Game: Scotch Gambit, Dubois Reti Defense
+Rated Bullet  1-0 1337 1500 Four Knights Game: Spanish Variation
+Rated Bullet  1-0 1858 1885 Mieses Opening: Reversed Rat
+Rated Blitz  0-1 1689 1804 Sicilian Defense: Katalimov Variation
+Rated Bullet  1-0 1838 1554 Scotch Game: Haxo Gambit
+Rated Classical  0-1 1381 1643 Sicilian Defense
+Rated Bullet  0-1 1873 1872 Queen's Pawn Game: Franco-Sicilian Defense
+Rated Bullet  0-1 1872 1873 Nimzo-Indian Defense #2
+Rated Classical  0-1 1433 1662 Four Knights Game: Italian Variation
+Rated Blitz  1-0 1675 1655 Dutch Defense
+Rated Bullet  0-1 1862 1885 Sicilian Defense: Marshall Counterattack
+Rated Bullet  0-1 1535 1818 Sicilian Defense: Delayed Alapin Variation
+Rated Classical  1-0 1480 1648 Scandinavian Defense
+Rated Bullet  0-1 1531 1897 Sicilian Defense: Delayed Alapin Variation
+Rated Blitz  0-1 1359 1510 Owen Defense
+Rated Bullet  1-0 1897 1531 Old Benoni Defense
+Rated Blitz  0-1 1644 1838 Queen's Pawn Opening: Veresov Attack, Irish Gambit
+Rated Bullet  0-1 1528 1900 Sicilian Defense: Delayed Alapin Variation
+Rated Blitz  0-1 1516 1812 Sicilian Defense: Katalimov Variation
+Rated Bullet  0-1 1900 1528 Slav Defense: Two Knights Attack
+Rated Bullet  0-1 1550 1903 Sicilian Defense: Delayed Alapin Variation
+Rated Bullet  1-0 1903 1550 Nimzo-Indian Defense: Three Knights Variation
+Rated Classical  0-1 1668 1495 Semi-Slav Defense: Accelerated Move Order
+Rated Blitz  1-0 1843 1639 Sicilian Defense: Morphy Gambit
+Rated Blitz  1/2-1/2 1321 1513 Owen Defense
+Rated Classical  1-0 1055 1413 Queen's Pawn Game: Levitsky Attack
+Rated Bullet  1-0 1853 1906 Sicilian Defense: Closed
+Rated Classical  0-1 1332 1506 French Defense: Steinitz Attack
+Rated Blitz  0-1 1715 1815 Queen's Pawn Game
+Rated Bullet  1-0 1891 1865 Nimzo-Indian Defense #2
+Rated Bullet  0-1 1855 1903 Sicilian Defense: Smith-Morra Gambit Deferred
+Rated Classical  1-0 1485 1618 Scandinavian Defense
+Rated Classical  1-0 1585 1630 Scandinavian Defense: Main Line
+Rated Blitz  0-1 1680 1349 Sicilian Defense: Old Sicilian
+Rated Classical  1-0 1672 1735 Alekhine Defense: Two Pawn Attack, Lasker Variation
+Rated Classical  1-0 1734 1419 Philidor Defense #3
+Rated Bullet  1-0 1914 1846 Nimzo-Indian Defense #2
+Rated Blitz  1-0 1784 1823 Sicilian Defense: Katalimov Variation
+Rated Bullet  1-0 1846 1914 Sicilian Defense: Marshall Counterattack
+Rated Classical  1-0 1651 1511 Semi-Slav Defense: Accelerated Move Order
+Rated Bullet  0-1 1899 1858 Nimzo-Indian Defense #2
+Rated Classical  1-0 1726 1527 Philidor Defense #3
+Rated Classical  1-0 1102 1025 Queen's Pawn Game: Levitsky Attack, Welling Variation
+Rated Bullet  1-0 1870 1885 Sicilian Defense: Marshall Counterattack
+Rated Blitz  1-0 1796 1622 French Defense: La Bourdonnais Variation
+Rated Bullet  1-0 1885 1870 Nimzo-Indian Defense #2
+Rated Classical  0-1 1762 1601 Scandinavian Defense: Main Line
+Rated Classical  1-0 1823 1961 Rat Defense: Antal Defense
+Rated Bullet  1-0 1881 1873 Sicilian Defense: French Variation
+Rated Classical  0-1 1254 1374 King's Pawn Game: Wayward Queen Attack
+Rated Classical  0-1 1723 1747 English Opening: King's English Variation, Reversed Sicilian
+Rated Classical  0-1 1415 1738 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1861 1891 King's Indian Defense
+Rated Blitz  0-1 1194 1548 Van't Kruijs Opening
+Rated Classical  1-0 1121 1497 Queen's Pawn
+Rated Blitz  1-0 1802 1820 King's Gambit Accepted, Modern Defense
+Rated Bullet  1-0 1672 1645 Hungarian Opening
+Rated Bullet  1-0 1672 1634 Englund Gambit Declined, Reversed French
+Rated Classical  0-1 1812 1835 Torre Attack #2
+Rated Classical  1-0 1558 1412 Bishop's Opening: Philidor Counterattack
+Rated Blitz  1-0 1571 1633 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Blitz  0-1 1191 1268 Van't Kruijs Opening
+Rated Bullet  0-1 1634 1679 Pirc Defense #4
+Rated Blitz  0-1 1814 1710 Sicilian Defense: Classical Variation
+Rated Classical  0-1 1389 1428 Queen's Pawn Opening: Veresov, Richter Attack
+Rated Blitz  0-1 1401 1438 Queen's Pawn Game: Mason Attack
+Rated Blitz  1-0 1584 1523 Sicilian Defense: Scheveningen Variation, Classical Variation
+Rated Bullet  0-1 1624 1850 Sicilian Defense: Marshall Counterattack
+Rated Bullet  0-1 1680 1689 Saragossa Opening
+Rated Blitz  1-0 1564 1441 Sicilian Defense: Accelerated Dragon, Modern Variation
+Rated Blitz  1-0 1724 1800 Latvian Gambit Accepted
+Rated Blitz  0-1 1514 1593 Four Knights Game: Italian Variation
+Rated Blitz  0-1 1361 1417 Scandinavian Defense: Modern Variation #2
+Rated Bullet  0-1 2041 1855 Tarrasch Defense: Two Knights Variation
+Rated Blitz  1/2-1/2 1602 1505 Sicilian Defense: Scheveningen Variation, Classical Variation
+Rated Bullet  0-1 1855 2041 Nimzo-Indian Defense: Three Knights Variation
+Rated Classical  1-0 1041 1386 Three Knights Opening: Steinitz Defense
+Rated Blitz  0-1 1552 1624 French Defense: Knight Variation
+Rated Classical  1-0 1456 1438 Queen's Pawn Game: Chigorin Variation
+Rated Bullet  0-1 1699 1980 Slav Defense: Alekhine Variation
+Rated Classical  1-0 1732 1709 Alekhine Defense: Scandinavian Variation
+Rated Classical  1-0 1402 1322 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1404 1459 Scandinavian Defense
+Rated Bullet  1-0 2048 1849 Old Benoni Defense #2
+Rated Blitz  1-0 1738 1384 Queen's Gambit Accepted: Saduleto Variation
+Rated Bullet  1-0 1992 1695 Scandinavian Defense
+Rated Classical  0-1 1513 1658 Queen's Pawn Game: Mason Attack
+Rated Bullet  0-1 1843 2055 Benoni Defense
+Rated Bullet  1-0 2061 1837 Zukertort Opening: Sicilian Invitation
+Rated Bullet  0-1 1837 2061 Benoni Defense
+Rated Blitz  0-1 1371 1801 Alekhine Defense: Normal Variation
+Rated Bullet  1-0 2003 1261 Scandinavian Defense: Blackburne-Kloosterboer Gambit
+Rated Bullet  1-0 2067 1832 Benoni Defense: King's Pawn Line
+Rated Classical  1-0 1502 1587 Ruy Lopez: Steinitz Defense
+Rated Bullet  0-1 1832 2067 Benoni Defense
+Rated Classical  1-0 1675 1559 Bird Opening: Dutch Variation
+Rated Classical  0-1 1835 1845 French Defense: La Bourdonnais Variation
+Rated Classical  1-0 1477 1081 Alekhine Defense
+Rated Bullet  0-1 1827 1901 Nimzo-Indian Defense #2
+Rated Classical  0-1 1419 1713 Russian Game: Damiano Variation
+Rated Blitz  1-0 1599 1487 Owen Defense
+Rated Classical  1/2-1/2 1416 1407 Philidor Defense #2
+Rated Blitz  1-0 1599 1447 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1906 1973 Queen's Pawn Game: Chigorin Variation
+Rated Blitz  0-1 1277 1491 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1990 1740 Sicilian Defense: Wing Gambit
+Rated Classical  1-0 1504 1418 Queen's Pawn Game #3
+Rated Bullet  0-1 1818 2073 Old Benoni Defense
+Rated Blitz  0-1 1607 1740 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Classical  1-0 1717 1414 Bird Opening: Dutch Variation
+Rated Blitz  0-1 1264 1487 French Defense: Normal Variation
+Rated Bullet  1-0 1813 2078 Old Benoni Defense
+Rated Classical  1-0 1408 1167 King's Pawn Game: Beyer Gambit
+Rated Bullet  0-1 1557 1813 Zukertort Opening: Sicilian Invitation
+Rated Classical  0-1 1665 1856 Horwitz Defense
+Rated Bullet  0-1 1422 1589 Owen Defense
+Rated Bullet  1-0 2056 1692 English Opening: King's English Variation
+Rated Classical  1-0 1447 1427 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1981 2114 French Defense: Winawer Variation, Winckelmann-Riemer Gambit
+Rated Bullet  1-0 1833 1552 Indian Game: Budapest Defense
+Rated Classical  0-1 1410 1721 Queen's Pawn Game #3
+Rated Bullet  0-1 1552 1833 Zukertort Opening: Sicilian Invitation
+Rated Bullet  1-0 2059 1689 Hungarian Opening
+Rated Blitz  1-0 1479 1369 Nimzo-Larsen Attack: Classical Variation
+Rated Classical  1-0 1466 1416 King's Pawn Game: Wayward Queen Attack
+Rated Classical  1-0 1479 1466 Scotch Game
+Rated Classical  0-1 1539 1700 King's Indian Defense: Normal Variation, King's Knight Variation
+Rated Classical  0-1 1679 1909 Sicilian Defense: Old Sicilian
+Rated Blitz  1-0 2125 1974 Zukertort Opening: Black Mustang Defense
+Rated Blitz  1-0 1945 1828 Alekhine Defense: Two Pawn Attack
+Rated Bullet  0-1 1665 1589 Queen's Gambit Declined: Traditional Variation
+Rated Bullet  1-0 1629 1843 Nimzo-Larsen Attack: Classical Variation
+Rated Bullet  1-0 1843 1629 Modern Defense
+Rated Classical  0-1 1409 1755 Scandinavian Defense
+Rated Blitz  1-0 1644 1409 Reti Opening: Reti Accepted
+Rated Bullet  0-1 1823 1608 Italian Game: Giuoco Pianissimo, Normal
+Rated Bullet  1-0 1608 1624 Modern Defense
+Rated Blitz  0-1 1644 2135 English Opening: Agincourt Defense #3
+Rated Blitz  0-1 1357 1441 French Defense: Advance Variation #3
+Rated Classical  1-0 1590 1434 Philidor Defense #3
+Rated Blitz  1-0 1997 1271 Ruy Lopez: Nuernberg Variation
+Rated Blitz  0-1 1449 1345 Queen's Gambit Refused: Marshall Defense
+Rated Classical  0-1 1558 1506 French Defense: Advance Variation, Nimzowitsch System
+Rated Bullet  0-1 1617 1550 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Bullet  1-0 1804 1626 Nimzo-Indian Defense: Normal Variation
+Rated Classical  0-1 1331 1745 French Defense: Knight Variation
+Rated Classical  1-0 1759 1406 Reti Opening: Reti Accepted
+Rated Bullet  0-1 1565 1598 Italian Game: Giuoco Pianissimo, Normal
+Rated Blitz  1-0 1365 1435 Scandinavian Defense
+Rated Bullet  0-1 1598 1565 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Classical  0-1 1407 1862 Van Geet Opening
+Rated Bullet  0-1 1577 1581 Italian Game: Giuoco Pianissimo, Italian Four Knights Variation
+Rated Classical  0-1 1329 1727 Alekhine Defense: Maroczy Variation
+Rated Bullet  0-1 1596 1566 Ruy Lopez: Steinitz Defense
+Rated Bullet  1-0 1566 1596 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Blitz  1-0 1383 1422 Scandinavian Defense
+Rated Blitz  1-0 1968 1903 Ruy Lopez: Marshall Attack, Steiner Variation
+Rated Classical  1-0 1403 1683 Bishop's Opening
+Rated Bullet  1-0 1580 1578 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Classical  1-0 1683 1403 Bird Opening: Dutch Variation
+Rated Bullet  0-1 1679 2005 King's Gambit Accepted, Stamma Gambit
+Rated Classical  1-0 1519 1545 Old Benoni Defense
+Rated Blitz  1-0 1400 1493 Danish Gambit
+Rated Bullet  1-0 1669 1434 Mieses Opening
+Rated Bullet  1-0 1837 1676 Queen's Gambit Refused: Chigorin Defense, Janowski Variation
+Rated Bullet  0-1 1567 1594 Italian Game: Giuoco Pianissimo, Normal
+Rated Bullet  1-0 1669 1434 Van't Kruijs Opening
+Rated Classical  0-1 1367 1352 Van't Kruijs Opening
+Rated Classical  0-1 1326 1660 Scotch Game
+Rated Bullet  0-1 1526 1629 French Defense: Exchange Variation
+Rated Bullet  1-0 1608 1556 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Bullet  1-0 1670 1844 Sicilian Defense: McDonnell Attack
+Rated Bullet  1-0 1844 1670 Slav Defense #3
+Rated Blitz  1-0 1068 1587 Center Game: Normal Variation
+Rated Classical  0-1 1533 1633 Sicilian Defense: Smith-Morra Gambit
+Rated Bullet  1-0 1674 1460 Hungarian Opening
+Rated Bullet  0-1 1546 1620 Italian Game: Giuoco Pianissimo, Normal
+Rated Classical  0-1 1681 1620 Sicilian Defense: Old Sicilian
+Rated Blitz  1/2-1/2 1487 1999 Bishop's Opening: Boi Variation
+Rated Classical  1-0 1531 1525 Englund Gambit Complex: Soller Gambit
+Rated Bullet  0-1 1850 1664 Queen's Gambit Refused: Chigorin Defense, Janowski Variation
+Rated Classical  0-1 1500 1863 Zukertort Opening: Queen's Gambit Invitation
+Rated Bullet  1-0 1631 1537 Italian Game: Classical Variation, La Bourdonnais Variation
+Rated Bullet  0-1 1680 1832 Sicilian Defense: McDonnell Attack
+Rated Classical  1-0 1664 1424 Bird Opening: Dutch Variation
+Rated Classical  0-1 1604 1405 Italian Game: Anti-Fried Liver Defense
+Rated Blitz  1-0 1241 1291 Scandinavian Defense: Gubinsky-Melts Defense
+Rated Bullet  1-0 1679 1475 Van't Kruijs Opening
+Rated Bullet  0-1 1529 1641 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Blitz  1-0 1537 1633 Hungarian Opening
+Rated Bullet  0-1 1840 1674 Queen's Gambit Refused: Chigorin Defense, Janowski Variation
+Rated Blitz  0-1 1406 1566 Mieses Opening
+Rated Classical  1-0 1460 1372 Queen's Pawn Game #2
+Rated Bullet  1-0 1690 1822 Sicilian Defense
+Rated Bullet  1-0 1822 1690 Queen's Gambit Accepted
+Rated Classical  1-0 1729 1543 French Defense: Advance Variation
+Rated Classical  1-0 1500 1762 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1683 1806 Sicilian Defense: McDonnell Attack
+Rated Classical  1-0 1786 1867 French Defense: Advance Variation #2
+Rated Bullet  1-0 1685 1500 Saragossa Opening
+Rated Bullet  1-0 1791 1697 Dutch Defense: Queen's Knight Variation
+Rated Blitz  1-0 1400 1495 Englund Gambit
+Rated Blitz  1-0 2154 1650 French Defense: Advance Variation, Main Line
+Rated Bullet  0-1 1689 1799 Sicilian Defense: Bowdler Attack
+Rated Blitz  1-0 1893 1935 Philidor Defense: Morphy Gambit
+Rated Blitz  1-0 1568 1626 Zukertort Opening: Reversed Mexican Defense
+Rated Classical  0-1 1914 1704 Ruy Lopez
+Rated Blitz  1-0 1470 1615 Philidor Defense #2
+Rated Bullet  1-0 1808 1681 Slav Defense: Two Knights Attack
+Rated Blitz  0-1 1649 2156 Queen's Gambit Declined: Queen's Knight Variation
+Rated Blitz  1-0 1867 1905 Ruy Lopez: Exchange Variation
+Rated Blitz  1-0 1483 1594 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  1-0 1482 1271 Queen's Pawn Game: Chigorin Variation
+Rated Bullet  1/2-1/2 1674 1815 Sicilian Defense: Bowdler Attack
+Rated Classical  1-0 1853 1725 Franco-Benoni Defense
+Rated Blitz  0-1 1579 1498 King's Gambit Declined, Keene Defense
+Rated Blitz  0-1 1486 1742 French Defense: Queen's Knight
+Rated Bullet  1-0 1811 1678 Dutch Defense: Queen's Knight Variation
+Rated Blitz  1-0 2157 1647 Ruy Lopez: Steinitz Defense
+Rated Bullet  1-0 1671 1818 Sicilian Defense: Alapin Variation
+Rated Blitz  0-1 1511 1422 French Defense #2
+Rated Classical  0-1 1323 1358 Scotch Game: Malaniuk Variation
+Rated Blitz  0-1 1808 1893 Gruenfeld Defense: Exchange Variation
+Rated Blitz  0-1 1646 2159 Sicilian Defense: Classical Variation
+Rated Classical  1-0 1798 1735 English Opening: The Whale
+Rated Bullet  1-0 1802 1687 Semi-Slav Defense
+Rated Bullet  1-0 1690 1548 Gedult's Opening
+Rated Bullet  1-0 1687 1802 Sicilian Defense
+Rated Blitz  1-0 1615 1707 Old Indian Defense
+Rated Classical  0-1 1568 1243 Zukertort Opening: Tennison Gambit
+Rated Bullet  1-0 1810 1701 Slav Defense #3
+Rated Bullet  1-0 1540 1547 Van Geet Opening: Reversed Nimzowitsch
+Rated Classical  0-1 1719 1852 French Defense: Steiner Variation
+Rated Blitz  1-0 1423 1418 Italian Game: Giuoco Pianissimo, Normal
+Rated Blitz  1-0 1747 1497 Englund Gambit
+Rated Bullet  0-1 1500 1534 Gedult's Opening
+Rated Bullet  0-1 1693 1818 Sicilian Defense
+Rated Blitz  0-1 2160 1644 Scandinavian Defense: Main Line
+Rated Blitz  1-0 1573 1628 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1698 1542 Saragossa Opening
+Rated Blitz  1-0 1902 1797 Sicilian Defense: Canal Attack, Main Line
+Rated Classical  1-0 1537 1419 Queen's Pawn Game: Mason Attack
+Rated Bullet  0-1 1686 1826 Sicilian Defense
+Rated Blitz  0-1 1493 1751 French Defense #2
+Rated Classical  1-0 1496 1538 Queen's Pawn Game #2
+Rated Bullet  1-0 1833 1679 Queen's Gambit Refused: Chigorin Defense, Janowski Variation
+Rated Blitz  1-0 1671 2132 Bird Opening: Dutch Variation
+Rated Classical  0-1 1410 1544 French Defense: Advance Variation, Nimzowitsch System
+Rated Classical  0-1 1712 1860 French Defense #2
+Rated Blitz  1-0 2063 1561 Queen's Pawn Game #2
+Rated Classical  1-0 1720 1437 Bishop's Opening
+Rated Classical  0-1 1437 1720 Queen's Gambit Accepted
+Rated Bullet  1-0 1673 1839 Sicilian Defense
+Rated Bullet  1-0 1839 1673 Semi-Slav Defense
+Rated Bullet  1-0 1341 1264 Mieses Opening: Reversed Rat
+Rated Bullet  0-1 1923 1909 Alekhine Defense: Modern Variation, Alburt Variation
+Rated Bullet  0-1 1666 1846 Sicilian Defense
+Rated Classical  1-0 1552 1402 Queen's Pawn Game: Mason Attack
+Rated Blitz  1-0 2105 1698 Ruy Lopez: Morphy Defense, Modern Steinitz Defense
+Rated Blitz  1-0 1489 1615 Sicilian Defense: Smith-Morra Gambit #2
+Rated Blitz  1-0 1434 1121 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  1-0 1907 1289 Four Knights Game: Italian Variation
+Rated Blitz  1-0 1376 1437 Bishop's Opening: Berlin Defense
+Rated Bullet  1-0 1852 1660 Semi-Slav Defense: Anti-Moscow Gambit
+Rated Blitz  0-1 1696 2108 Nimzo-Larsen Attack
+Rated Classical  1-0 1604 1734 Polish Opening
+Rated Blitz  1-0 1925 1685 French Defense: Knight Variation
+Rated Bullet  0-1 1655 1857 Sicilian Defense
+Rated Blitz  0-1 1395 1883 Philidor Defense #3
+Rated Blitz  1-0 2108 1696 Catalan Opening: Open Defense
+Rated Bullet  1-0 1863 1649 Slav Defense #3
+Rated Classical  0-1 1660 1573 Sicilian Defense: McDonnell Attack
+Rated Blitz  1-0 1619 1391 Queen's Pawn Game: Symmetrical Variation
+Rated Blitz  0-1 1424 1389 King's Gambit Accepted, Bishop's Gambit, Bogoljubov Variation
+Rated Bullet  1/2-1/2 1644 1868 Sicilian Defense: McDonnell Attack
+Rated Classical  1-0 1395 1559 French Defense: Advance Variation
+Rated Blitz  1-0 1785 1944 Philidor Defense: Exchange Variation
+Rated Classical  1-0 1392 1559 Sicilian Defense: Bowdler Attack
+Rated Bullet  1-0 1862 1651 Semi-Slav Defense
+Rated Bullet  1-0 1908 2110 King's Pawn Game
+Rated Blitz  0-1 1402 1631 Bishop's Opening: Berlin Defense
+Rated Bullet  1-0 1705 1693 Saragossa Opening
+Rated Blitz  0-1 1888 1977 Ruy Lopez: Schliemann Defense, Exchange Variation
+Rated Bullet  1-0 1645 1867 Sicilian Defense: McDonnell Attack
+Rated Bullet  0-1 1931 2088 Four Knights Game: Italian Variation, Noa Gambit
+Rated Classical  0-1 1705 1867 Van't Kruijs Opening
+Rated Bullet  1-0 1716 1679 Nimzo-Larsen Attack
+Rated Blitz  0-1 1504 1609 King's Pawn Game
+Rated Bullet  1-0 1849 1663 Dutch Defense: Queen's Knight Variation
+Rated Bullet  1-0 1726 1695 Hungarian Opening
+Rated Bullet  0-1 1716 1679 Saragossa Opening
+Rated Blitz  1-0 1671 1600 Queen's Gambit Accepted: Normal Variation, Traditional System
+Rated Bullet  0-1 1657 1855 Sicilian Defense: McDonnell Attack
+Rated Bullet  0-1 1726 1695 Van't Kruijs Opening
+Rated Blitz  0-1 1489 1338 King's Knight Opening: Normal Variation
+Rated Blitz  0-1 1642 1397 Queen's Pawn Game: Chigorin Variation
+Rated Blitz  0-1 1859 2149 Ware Defense
+Rated Bullet  1-0 1861 1651 Slav Defense #2
+Rated Bullet  0-1 1714 1710 Englund Gambit Declined, Reversed French
+Rated Classical  1-0 1708 1327 King's Indian Defense
+Rated Blitz  0-1 1809 1787 Latvian Gambit: Greco Variation
+Rated Classical  0-1 1542 1506 Indian Game
+Rated Bullet  1-0 1866 1646 Semi-Slav Defense: Botvinnik Variation
+Rated Classical  1-0 1807 1706 Alekhine Defense: Two Pawn Attack
+Rated Classical  1-0 1746 1710 Modern Defense: Averbakh System, Kotov Variation
+Rated Blitz  1-0 1616 1496 Horwitz Defense
+Rated Blitz  1-0 1798 1798 King's Gambit Accepted, Modern Defense
+Rated Blitz  1-0 2096 1724 Sicilian Defense: Najdorf Variation
+Rated Blitz  0-1 1572 1324 Pirc Defense #5
+Rated Blitz  0-1 1420 1853 Philidor Defense #3
+Rated Bullet  0-1 2062 1934 Reti Opening: Advance Variation
+Rated Blitz  1-0 1509 1601 Queen's Pawn Game: Chigorin Variation
+Rated Classical  1-0 1702 1680 Budapest Defense: Adler Variation
+Rated Blitz  1-0 1488 1624 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1721 2100 Caro-Kann Defense: Advance Variation, Short Variation
+Rated Blitz  1-0 1809 1787 King's Gambit Accepted: Modern Defense #2
+Rated Classical  1-0 1267 1304 Scandinavian Defense
+Rated Classical  0-1 1530 1699 Horwitz Defense
+Rated Bullet  0-1 1992 2045 Nimzo-Larsen Attack: English Variation
+Rated Bullet  1-0 1641 1500 King's Gambit Accepted, MacLeod Defense
+Rated Classical  0-1 1505 1524 Queen's Gambit
+Rated Blitz  1-0 1847 1424 Ruy Lopez: Berlin Defense, Beverwijk Variation
+Rated Blitz  0-1 1416 1587 French Defense: Knight Variation
+Rated Blitz  1-0 2103 1718 Catalan Opening: Closed Variation
+Rated Blitz  1-0 1777 1819 Nimzo-Indian Defense: Normal Variation, Ragozin Variation
+Rated Blitz  1-0 1601 1405 Queen's Pawn Game #2
+Rated Bullet  0-1 2004 2040 Nimzo-Larsen Attack: Modern Variation #3
+Rated Blitz  1-0 1078 1353 Queen's Gambit Refused: Marshall Defense
+Rated Bullet  1-0 1647 1521 King's Gambit Accepted, Stamma Gambit
+Rated Blitz  1-0 2153 1985 Queen's Gambit Refused: Albin Countergambit, Fianchetto Variation
+Rated Bullet  0-1 2056 1959 Rat Defense: English Rat
+Rated Classical  1-0 1646 1550 French Defense: La Bourdonnais Variation
+Rated Classical  1/2-1/2 1740 1617 Italian Game: Schilling-Kostic Gambit
+Rated Bullet  0-1 1514 1654 Philidor Defense #3
+Rated Classical  1-0 1284 1256 Italian Game
+Rated Blitz  1-0 1609 1534 Queen's Pawn Game
+Rated Blitz  0-1 1789 1910 King's Indian Defense
+Rated Bullet  0-1 1500 1715 Nimzo-Larsen Attack
+Rated Blitz  1-0 1807 1610 Sicilian Defense: Kan Variation, Knight Variation
+Rated Bullet  1-0 1662 1975 Sicilian Defense: McDonnell Attack
+Rated Blitz  0-1 1336 1132 Center Game: Normal Variation
+Rated Blitz  0-1 1132 1336 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1917 1781 Scotch Game: Scotch Gambit
+Rated Blitz  0-1 1613 1500 Mieses Opening
+Rated Bullet  0-1 1681 1921 Sicilian Defense: McDonnell Attack
+Rated Blitz  0-1 1320 1181 Center Game: Normal Variation
+Rated Classical  1-0 1766 1701 Queen's Gambit Accepted: Old Variation
+Rated Blitz  0-1 1979 2161 Ruy Lopez: Open Variations, Dilworth Variation
+Rated Classical  0-1 1760 1896 Sicilian Defense: Old Sicilian
+Rated Blitz  0-1 1775 1925 Scotch Game: Mieses Variation
+Rated Classical  1-0 1243 1297 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  1-0 1692 2106 Sicilian Defense: Wing Gambit
+Rated Blitz  0-1 1931 1768 Italian Game: Two Knights Defense, Max Lange Attack
+Rated Classical  1-0 1594 1500 King's Gambit Accepted, King's Knight Gambit
+Rated Blitz  0-1 1408 1511 Bishop's Opening: Vienna Hybrid, Spielmann Attack
+Rated Blitz  1-0 1222 1304 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Blitz  0-1 1617 1555 Queen's Pawn Game
+Rated Blitz  1-0 1751 1812 Latvian Gambit
+Rated Blitz  0-1 1290 1256 Center Game: Normal Variation
+Rated Blitz  0-1 1594 1849 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1915 1800 Latvian Gambit: Mason Countergambit
+Rated Bullet  1-0 1406 1368 Saragossa Opening
+Rated Blitz  1-0 1285 1278 King's Pawn Game: Beyer Gambit
+Rated Classical  0-1 1583 1533 Bishop's Opening
+Rated Blitz  1-0 1400 1263 Bishop's Opening
+Rated Classical  1/2-1/2 1711 1519 English Opening: King's English Variation, Reversed Sicilian
+Rated Classical  0-1 1648 1873 French Defense: Advance Variation, Nimzowitsch System
+Rated Blitz  0-1 1585 1853 Benoni Defense: Benoni Gambit Accepted
+Rated Bullet  1-0 1522 1253 Van't Kruijs Opening
+Rated Classical  1-0 1281 1259 King's Pawn Game: McConnell Defense
+Rated Classical  0-1 1246 1294 King's Pawn Game: Wayward Queen Attack
+Rated Bullet  0-1 1246 1561 Barnes Defense
+Rated Blitz  0-1 1267 1309 Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Heinola-Deppe Gambit
+Rated Blitz  1/2-1/2 1407 1453 Scandinavian Defense: Main Line
+Rated Bullet  1-0 1702 1535 Saragossa Opening
+Rated Bullet  1-0 1241 1428 Nimzowitsch Defense: Scandinavian Variation, Advance Variation
+Rated Classical  1-0 1654 1532 Sicilian Defense: Bowdler Attack
+Rated Blitz  1-0 1900 1660 Zukertort Opening: Tennison Gambit
+Rated Blitz  1-0 1774 1973 King's Gambit Declined, Queen's Knight Defense
+Rated Blitz  0-1 1660 1857 King's Gambit Accepted, Fischer Defense
+Rated Classical  1-0 1607 1483 Bishop's Opening: Boi Variation
+Rated Classical  1-0 1306 1235 King's Pawn Game: McConnell Defense
+Rated Blitz  0-1 1411 1576 King's Gambit Accepted, Bishop's Gambit
+Rated Classical  0-1 1524 1524 English Opening: The Whale
+Rated Blitz  0-1 1576 1626 Benoni Defense: Benoni Gambit Accepted
+Rated Blitz  0-1 1719 1754 English Opening: King's English Variation, Two Knights Variation
+Rated Blitz  0-1 1905 1863 Philidor Defense: Hanham Variation
+Rated Blitz  1-0 1636 1589 Bishop's Opening: Philidor Counterattack
+Rated Bullet  0-1 1589 1528 Van't Kruijs Opening
+Rated Classical  0-1 1524 1662 Italian Game: Anti-Fried Liver Defense
+Rated Bullet  1-0 1589 1528 Hungarian Opening
+Rated Classical  0-1 1225 1317 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1571 1647 Benoni Defense: Old Benoni
+Rated Bullet  0-1 1652 1541 Saragossa Opening
+Rated Classical  1-0 1635 1698 Alekhine Defense: Scandinavian Variation
+Rated Classical  0-1 1584 1879 French Defense: Classical Variation, Steinitz Variation
+Rated Classical  0-1 1615 1833 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1721 1821 French Defense: Tarrasch Variation, Closed Variation, Main Line
+Rated Bullet  1-0 1569 1555 Saragossa Opening
+Rated Blitz  0-1 1377 1655 Mieses Opening
+Rated Blitz  1-0 1892 1668 Sicilian Defense: Katalimov Variation
+Rated Blitz  0-1 1656 1555 Bishop's Opening: Boi Variation
+Rated Bullet  0-1 1621 1507 Saragossa Opening
+Rated Classical  1-0 1523 1469 Queen's Pawn Game: Mason Attack
+Rated Bullet  1-0 1829 1711 Ponziani Opening
+Rated Classical  1-0 1328 1215 King's Pawn Game: McConnell Defense
+Rated Classical  1-0 1601 1591 King's Gambit Declined, Queen's Knight Defense
+Rated Bullet  1-0 1709 1520 King's Pawn Game: Leonardis Variation
+Rated Classical  1-0 1206 1337 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1580 1641 Benoni Defense: Benoni Gambit Accepted
+Rated Blitz  1-0 1659 1373 Rat Defense: Small Center Defense
+Rated Bullet  1-0 1558 1514 Mieses Opening: Reversed Rat
+Rated Bullet  1-0 1701 1836 Bishop's Opening: Berlin Defense
+Rated Bullet  1-0 1558 1514 Saragossa Opening
+Rated Classical  0-1 1500 1483 Sicilian Defense: Franco-Sicilian Variation
+Rated Blitz  0-1 1369 1406 French Defense: King's Indian Attack
+Rated Classical  1-0 1669 1516 King's Gambit Accepted, MacLeod Defense
+Rated Bullet  1-0 1596 1505 Nimzo-Larsen Attack: Modern Variation #3
+Rated Bullet  1-0 1822 1720 Paleface Attack
+Rated Classical  0-1 1439 1784 Mieses Opening
+Rated Classical  0-1 1660 1333 Queen's Gambit Refused: Marshall Defense
+Rated Blitz  1-0 1651 1564 Bishop's Opening: Boi Variation
+Rated Bullet  0-1 1624 1497 Mieses Opening: Reversed Rat
+Rated Blitz  1-0 1504 1507 Vienna Game: Stanley Variation
+Rated Blitz  0-1 1774 1956 Scotch Game: Meitner Variation
+Rated Bullet  1-0 1577 1511 Mieses Opening: Reversed Rat
+Rated Blitz  1-0 1361 1480 Bishop's Opening: Boi Variation
+Rated Blitz  1/2-1/2 1550 1659 Caro-Kann Defense
+Rated Bullet  1-0 1603 1502 Saragossa Opening
+Rated Classical  1-0 1676 1642 Scandinavian Defense
+Rated Classical  0-1 1319 1223 Elephant Gambit
+Rated Classical  1-0 1839 1525 French Defense: Advance Variation, Paulsen Attack
+Rated Bullet  1-0 1625 1494 Saragossa Opening
+Rated Blitz  0-1 1498 1350 Queen's Pawn Game: Chigorin Variation
+Rated Bullet  1-0 1715 1487 King's Pawn Game: Leonardis Variation
+Rated Classical  0-1 1610 1790 Russian Game: Urusov Gambit
+Rated Blitz  1-0 1535 1875 Vienna Game: Stanley Variation
+Rated Blitz  1-0 1465 1375 Queen's Pawn Game: Veresov Attack, Classical Defense
+Rated Classical  0-1 1533 1621 Polish Defense
+Rated Blitz  1-0 1496 1515 Philidor Defense
+Rated Blitz  0-1 1814 1962 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Blitz  1-0 1756 1741 Queen's Gambit Declined
+Rated Blitz  0-1 1503 1508 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1807 1856 King's Gambit Accepted, Fischer Defense
+Rated Classical  1-0 1612 1724 King's Gambit Accepted, King's Knight Gambit
+Rated Correspondence  0-1 1257 1292 Scandinavian Defense
+Rated Blitz  1-0 1656 1556 English Opening: Great Snake Variation
+Rated Blitz  1-0 1766 1555 Queen's Gambit Accepted: Saduleto Variation
+Rated Classical  1-0 1704 1499 English Opening: King's English Variation, Reversed Sicilian
+Rated Blitz  1-0 1519 1492 Zukertort Opening: Tennison Gambit
+Rated Blitz  1-0 1439 1500 Englund Gambit
+Rated Classical  1-0 1632 1563 Queen's Gambit Declined
+Rated Classical  0-1 1519 1398 King's Pawn Game: Damiano Defense
+Rated Blitz  1-0 1514 1642 English Opening: Agincourt Defense #2
+Rated Blitz  0-1 1482 1529 King's Pawn Game: Leonardis Variation
+Rated Blitz  1-0 1549 1798 Latvian Gambit Accepted
+Rated Classical  0-1 1882 1692 Ruy Lopez: Steinitz Defense
+Rated Blitz  1-0 1529 1482 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1500 2052 Caro-Kann Defense: Breyer Variation
+Rated Classical  1/2-1/2 1555 1710 King's Knight Opening
+Rated Blitz  0-1 1367 1626 French Defense: Knight Variation
+Rated Blitz  1-0 1749 1781 King's Pawn Game: Leonardis Variation
+Rated Classical  1-0 1946 1648 Center Game
+Rated Correspondence  0-1 1302 1247 Queen's Pawn Game #3
+Rated Classical  0-1 1262 1459 King's Pawn Game: Wayward Queen Attack
+Rated Classical  1-0 1459 1354 Blackmar-Diemer Gambit
+Rated Classical  0-1 1751 1560 Benoni Defense: Benoni Gambit Accepted
+Rated Classical  0-1 1685 1870 Sicilian Defense #2
+Rated Blitz  1-0 1772 1630 Queen's Gambit Declined
+Rated Blitz  1-0 1784 1801 Modern Defense: Mongredien Defense #2
+Rated Classical  1-0 1580 1982 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  0-1 1543 1865 French Defense: Knight Variation
+Rated Blitz  0-1 1795 1769 Latvian Gambit
+Rated Blitz  1-0 1472 1539 Scotch Game: Schmidt Variation
+Rated Classical  1-0 1515 1553 Bishop's Opening: Berlin Defense
+Rated Classical  0-1 1584 1725 English Opening
+Rated Classical  1/2-1/2 1710 1602 King's Indian Defense: 3.Nc3
+Rated Classical  1-0 1699 1706 Queen's Gambit Refused: Marshall Defense
+Rated Blitz  0-1 1472 1623 French Defense: Advance Variation #2
+Rated Blitz  0-1 1781 1783 King's Gambit Declined, Queen's Knight Defense
+Rated Blitz  0-1 1803 1865 Philidor Defense #4
+Rated Blitz  0-1 1790 1969 Hungarian Opening: Reversed Modern Defense
+Rated Classical  1-0 1241 1083 Van Geet Opening: Gruenfeld Defense
+Rated Classical  0-1 1604 1658 Bishop's Opening: Philidor Counterattack
+Rated Classical  1-0 1803 1346 English Opening: King's English Variation, Reversed Sicilian
+Rated Blitz  0-1 1620 1639 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  1-0 1358 1408 King's Pawn Game: Leonardis Variation
+Rated Classical  0-1 1257 1376 King's Pawn Game: Wayward Queen Attack
+Rated Classical  0-1 1921 1868 French Defense: Two Knights Variation
+Rated Blitz  1-0 1784 1975 Hungarian Opening: Reversed Modern Defense
+Rated Classical  1-0 1824 1645 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1395 1552 Owen Defense
+Rated Classical  1-0 1504 1239 French Defense: La Bourdonnais Variation
+Rated Classical  0-1 1344 1807 Center Game: Paulsen Attack Variation
+Rated Blitz  0-1 1485 1410 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1/2-1/2 1389 1558 Owen Defense
+Rated Classical  1-0 1627 1541 King's Gambit
+Rated Blitz  1-0 1778 1672 Queen's Gambit Accepted: Saduleto Variation
+Rated Classical  0-1 1302 1551 Elephant Gambit
+Rated Blitz  1-0 1470 1405 Queen's Pawn Game: Veresov Attack, Alburt Defense
+Rated Blitz  1-0 1500 1510 Queen's Pawn Game: Chigorin Variation
+Rated Blitz  0-1 1394 1553 Robatsch (Modern) Defense
+Rated Blitz  0-1 1499 1605 Italian Game: Anti-Fried Liver Defense
+Rated Classical  0-1 1384 1403 Queen's Gambit Declined
+Rated Blitz  1-0 1958 1614 King's Pawn Game: McConnell Defense
+Rated Classical  1-0 1036 1249 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  1-0 1766 1664 Philidor Defense
+Rated Classical  0-1 1639 1830 Alekhine Defense
+Rated Blitz  1-0 1472 1560 Modern Defense
+Rated Classical  0-1 1735 1574 Hungarian Opening
+Rated Classical  0-1 1641 1710 Sicilian Defense: Delayed Alapin
+Rated Classical  1-0 1508 1234 King's Gambit Declined: Keene's Defense #2
+Rated Classical  1-0 1433 1374 Scotch Game
+Rated Classical  1-0 1641 1730 Horwitz Defense
+Rated Blitz  1-0 1387 1546 Robatsch (Modern) Defense
+Rated Blitz  1/2-1/2 1387 1546 Robatsch (Modern) Defense
+Rated Blitz  0-1 1786 1630 Queen's Gambit Refused: Marshall Defense
+Rated Bullet  1-0 2097 1717 Queen's Gambit Refused: Chigorin Defense, Exchange Variation
+Rated Classical  1-0 1313 1281 Hippopotamus Defense #2
+Rated Classical  1-0 1903 1642 Robatsch (Modern) Defense
+Rated Blitz  1-0 1534 1611 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1528 1798 Pirc Defense #4
+Rated Blitz  1-0 1392 1530 Owen Defense
+Rated Classical  1-0 1228 1072 King's Pawn Game: Busch-Gass Gambit
+Rated Blitz  1-0 1491 1597 Philidor Defense: Exchange Variation #3
+Rated Classical  1-0 1450 1364 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1364 1297 Queen's Gambit Refused: Chigorin Defense #3
+Rated Blitz  0-1 1656 1695 King's Pawn Game
+Rated Classical  1-0 1596 1712 English Opening: Great Snake Variation
+Rated Classical  1-0 1597 1532 Center Game: Normal Variation
+Rated Classical  1/2-1/2 1500 1388 French Defense #2
+Rated Classical  1-0 1634 1230 King's Pawn Game: Busch-Gass Gambit
+Rated Classical  1-0 1322 1390 French Defense: Queen's Knight
+Rated Classical  1-0 1672 1637 English Defense #2
+Rated Blitz  1-0 1700 1774 Danish Gambit Accepted, Chigorin Defense
+Rated Classical  1-0 1444 1509 Queen's Pawn Game #2
+Rated Blitz  1-0 1771 1505 Queen's Gambit Declined
+Rated Bullet  1-0 1644 1482 Hungarian Opening
+Rated Bullet  1-0 1644 1482 Hungarian Opening
+Rated Classical  0-1 1312 1356 Italian Game: Anti-Fried Liver Defense
+Rated Bullet  1-0 1659 1476 Hungarian Opening
+Rated Blitz  0-1 1408 1238 French Defense: Winawer Variation, Advance Variation #3
+Rated Classical  0-1 1228 1636 Sicilian Defense
+Rated Blitz  0-1 1612 1647 Queen's Pawn Game
+Rated Classical  0-1 1369 1334 Van't Kruijs Opening
+Rated Classical  0-1 1512 1459 Rat Defense: Harmonist
+Rated Classical  1-0 1908 1836 Alekhine Defense: Four Pawns Attack, Trifunovic Variation
+Rated Classical  0-1 1705 1655 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1484 1592 Scandinavian Defense
+Rated Classical  1-0 1638 1225 Scotch Game
+Rated Blitz  1-0 1731 1761 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Classical  0-1 1524 1619 Sicilian Defense: Bowdler Attack
+Rated Classical  1-0 1455 1465 Queen's Pawn Game #2
+Rated Classical  0-1 1827 1918 King's Gambit Declined: Classical, Soldatenkov Variation
+Rated Blitz  0-1 1486 1594 Sicilian Defense: Bowdler Attack
+Rated Classical  1-0 1690 1615 Ruy Lopez: Bird Variation
+Rated Classical  0-1 1259 1289 Queen's Pawn Game: Zukertort Variation
+Rated Bullet  1-0 1720 1598 Van't Kruijs Opening
+Rated Bullet  0-1 1727 1590 Saragossa Opening
+Rated Classical  1-0 1523 1606 King's Pawn Game: Leonardis Variation
+Rated Blitz  0-1 1801 2033 Hungarian Opening: Reversed Modern Defense
+Rated Blitz  0-1 1749 1743 King's Gambit Accepted, MacLeod Defense
+Rated Classical  0-1 1686 1632 Sicilian Defense: McDonnell Attack
+Rated Classical  1-0 1516 1837 Petrov's Defense #2
+Rated Bullet  0-1 1606 1712 French Defense: La Bourdonnais Variation
+Rated Blitz  0-1 2079 1714 Queen's Gambit Refused: Chigorin Defense
+Rated Blitz  1-0 1705 1603 Center Game #2
+Rated Classical  0-1 1186 1223 King's Pawn Game: Leonardis Variation
+Rated Blitz  0-1 1363 1582 King's Pawn Game: McConnell Defense
+Rated Blitz  1-0 1775 1794 Indian Game: East Indian Defense
+Rated Classical  0-1 1353 1640 Sicilian Defense: Staunton-Cochrane Variation
+Rated Blitz  1-0 1822 1598 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  1-0 2038 1796 Modern Defense
+Rated Blitz  1-0 1893 1656 Philidor Defense: Hanham Variation
+Rated Bullet  1-0 1720 1593 Mieses Opening
+Rated Classical  1-0 1299 1250 Mikenas Defense
+Rated Blitz  0-1 1652 1599 Scandinavian Defense
+Rated Blitz  0-1 1466 1629 Sicilian Defense: Bowdler Attack
+Rated Blitz  1/2-1/2 1787 1782 Queen's Gambit Declined: Semi-Tarrasch Defense, Pillsbury Variation
+Rated Blitz  1-0 2168 1961 Nimzowitsch Defense: Kennedy Variation, Main Line
+Rated Blitz  1-0 1754 1738 Italian Game: Giuoco Pianissimo, Normal
+Rated Classical  1-0 1499 1472 King's Gambit Declined, Queen's Knight Defense
+Rated Classical  1-0 1674 1681 Sicilian Defense: Myers Attack #2
+Rated Classical  0-1 1234 1173 King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit
+Rated Classical  0-1 1346 1351 French Defense: Queen's Knight
+Rated Blitz  0-1 1955 2174 Ruy Lopez: Open Variations, Bernstein Variation
+Rated Bullet  0-1 1585 1598 Italian Game: Anti-Fried Liver Defense
+Rated Blitz  1-0 1787 1588 Queen's Gambit Accepted: Central Variation, Modern Defense
+Rated Classical  1-0 1246 1308 Scandinavian Defense
+Rated Classical  0-1 1241 1308 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1450 1655 Sicilian Defense: Bowdler Attack
+Rated Classical  0-1 1928 1705 Ruy Lopez: Cozio Defense
+Rated Blitz  0-1 1593 1826 Van't Kruijs Opening
+Rated Classical  0-1 1667 1683 Horwitz Defense
+Rated Bullet  0-1 1609 1574 King's Gambit Declined, Queen's Knight Defense
+Rated Bullet  0-1 1614 1529 Queen's Pawn Game: Colle System
+Rated Blitz  1-0 2180 1950 Ruy Lopez: Schliemann Defense
+Rated Blitz  0-1 1476 1665 Sicilian Defense
+Rated Classical  1-0 1750 1627 Owen Defense
+Rated Classical  0-1 1422 1529 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1189 1220 King's Pawn Game: Leonardis Variation
+Rated Bullet  1-0 1547 1601 Queen's Gambit Declined: Queen's Knight Variation
+Rated Bullet  0-1 1587 1596 Scandinavian Defense
+Rated Blitz  1-0 1894 1660 Slav Defense: Quiet Variation
+Rated Bullet  0-1 1589 1564 Nimzo-Larsen Attack: Modern Variation #3
+Rated Blitz  0-1 1437 1675 Franco-Benoni Defense
+Rated Blitz  1-0 1792 1755 Queen's Gambit Accepted: Central Variation, Modern Defense
+Rated Classical  1-0 1854 1453 Philidor Defense: Philidor Countergambit
+Rated Classical  0-1 1921 1815 Caro-Kann Defense: Classical Variation
+Rated Bullet  1-0 1608 1576 Italian Game: Schilling-Kostic Gambit
+Rated Bullet  1/2-1/2 1579 1577 Queen's Gambit Declined: Queen's Knight Variation
+Rated Classical  0-1 1540 1414 Sicilian Defense: Bowdler Attack
+Rated Blitz  1-0 1639 1588 King's Pawn Game: Leonardis Variation
+Rated Classical  0-1 1355 1231 Englund Gambit Declined, Reversed French
+Rated Blitz  1/2-1/2 1427 1691 Sicilian Defense: Smith-Morra Gambit #2
+Rated Blitz  0-1 1526 1632 Pirc Defense
+Rated Classical  1-0 1800 1685 Goldsmith Defense
+Rated Blitz  0-1 1911 2185 Queen's Gambit Declined
+Rated Classical  1-0 1405 1551 Caro-Kann Defense
+Rated Blitz  1-0 1671 1526 Bishop's Opening: Berlin Defense
+Rated Classical  1-0 1848 1778 Four Knights Game
+Rated Blitz  1-0 1441 1213 Nimzowitsch Defense: Scandinavian Variation, Advance Variation
+Rated Classical  1-0 1277 1260 Queen's Pawn
+Rated Blitz  1-0 1791 1822 Alekhine Defense: The Squirrel
+Rated Blitz  1-0 1442 1424 Queen's Pawn Game: Mason Attack
+Rated Classical  1-0 1470 1707 Scotch Game
+Rated Classical  0-1 1543 1908 Queen's Pawn Game
+Rated Blitz  0-1 1476 1564 Bishop's Opening
+Rated Classical  0-1 1374 1670 Sicilian Defense: Smith-Morra Gambit #2
+Rated Blitz  0-1 1810 1804 Sicilian Defense: Old Sicilian
+Rated Classical  0-1 1808 1701 French Defense: Knight Variation
+Rated Bullet  1-0 1577 1534 Benoni Defense: Benoni Gambit Accepted
+Rated Classical  1/2-1/2 1518 1421 Queen's Pawn Game: Chigorin Variation
+Rated Classical  1-0 1317 1232 Queen's Pawn Game
+Rated Classical  0-1 1266 1514 King's Pawn Game: Leonardis Variation
+Rated Bullet  0-1 1543 1500 Queen's Gambit Declined: Normal Defense
+Rated Classical  0-1 1758 1606 Scandinavian Defense: Modern Variation #2
+Rated Classical  0-1 1687 1488 English Opening: Symmetrical Variation, Normal Variation
+Rated Bullet  1-0 1587 1491 Old Benoni Defense
+Rated Classical  1-0 1723 1620 Modern Defense
+Rated Blitz  0-1 1519 1712 Italian Game
+Rated Classical  0-1 1340 1342 Van't Kruijs Opening
+Rated Classical  1-0 1292 1414 Italian Game: Anti-Fried Liver Defense
+Rated Classical  1-0 1474 1522 Englund Gambit Complex: Hartlaub-Charlick Gambit
+Rated Classical  0-1 1384 1237 Philidor Defense #2
+Rated Classical  0-1 1515 1573 Ruy Lopez: Steinitz Defense
+Rated Classical  1-0 1911 1536 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1815 1799 French Defense: La Bourdonnais Variation
+Rated Blitz  0-1 1467 1764 Bishop's Opening
+Rated Bullet  1-0 1784 2160 Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line
+Rated Blitz  1-0 1612 1319 Queen's Pawn Game: Veresov Attack, Classical Defense
+Rated Classical  0-1 1644 1657 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1594 1697 Colle System
+Rated Classical  1-0 1857 1710 Italian Game: Anti-Fried Liver Defense
+Rated Classical  1-0 1375 1255 Philidor Defense #3
+Rated Classical  1-0 1541 1424 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1724 1793 English Opening: King's English Variation, Reversed Closed Sicilian
+Rated Classical  1-0 1740 1596 Philidor Defense #3
+Rated Blitz  0-1 2087 2042 Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense
+Rated Classical  0-1 1806 1914 Giuoco Piano
+Rated Classical  0-1 1315 1571 French Defense: Mediterranean Defense
+Rated Classical  0-1 1480 1511 Russian Game: Urusov Gambit
+Rated Blitz  1-0 2006 1655 Pirc Defense #4
+Rated Classical  0-1 1510 1900 King's Gambit, Falkbeer Countergambit Accepted
+Rated Blitz  1-0 1367 1452 King's Pawn Game: Maroczy Defense
+Rated Classical  1-0 1703 1604 Queen's Pawn Game: Mason Attack
+Rated Classical  0-1 1329 1354 Van't Kruijs Opening
+Rated Blitz  1-0 1647 1537 Ponziani Opening
+Rated Blitz  0-1 1582 1342 King's Pawn Game: Macleod Attack
+Rated Classical  1-0 1506 1433 Sicilian Defense: Old Sicilian
+Rated Classical  1-0 1485 1214 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Blitz  1-0 1388 1520 Philidor Defense #3
+Rated Bullet  1-0 1588 1552 Colle System
+Rated Blitz  1-0 1464 1299 Ware Opening
+Rated Bullet  0-1 1470 2140 Caro-Kann Defense
+Rated Classical  0-1 1691 1633 Zukertort Opening: Pirc Invitation
+Rated Classical  0-1 1461 1535 Queen's Pawn Game: Chigorin Variation
+Rated Blitz  1-0 1667 1276 King's Gambit Accepted, Modern Defense
+Rated Classical  0-1 1568 1674 Ruy Lopez: Steinitz Defense
+Rated Bullet  0-1 1469 2140 Philidor Defense #3
+Rated Blitz  1-0 1486 1204 King's Pawn Game: Wayward Queen Attack
+Rated Bullet  1-0 2101 1863 Benoni Defense
+Rated Classical  0-1 1365 1453 Scandinavian Defense: Main Line
+Rated Blitz  0-1 1655 1294 Indian Game
+Rated Blitz  0-1 1273 1673 Pirc Defense: Classical Variation
+Rated Classical  0-1 1768 1675 Giuoco Piano
+Rated Blitz  0-1 1521 1439 Queen's Pawn Game: Zukertort Variation
+Rated Classical  0-1 1584 1532 Van't Kruijs Opening
+Rated Classical  1-0 1490 1247 Center Game #2
+Rated Blitz  0-1 2012 2073 Three Knights Opening
+Rated Classical  0-1 1923 1798 Nimzowitsch Defense: Scandinavian Variation, Advance Variation
+Rated Classical  1-0 1643 1623 Bishop's Opening: Berlin Defense
+Rated Classical  1-0 1545 1461 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1857 2107 Sicilian Defense: Grand Prix Attack
+Rated Classical  0-1 1531 1666 Scotch Game
+Rated Bullet  1-0 1597 1552 Indian Game
+Rated Classical  1-0 1803 1710 French Defense: Advance Variation, Nimzowitsch System
+Rated Classical  1-0 1545 1470 French Defense: Advance Variation
+Rated Bullet  0-1 1508 1899 Rat Defense: Harmonist
+Rated Blitz  1-0 1470 1615 French Defense: Advance Variation #3
+Rated Bullet  1-0 1607 1542 Indian Game
+Rated Classical  1-0 1589 1189 Nimzowitsch Defense
+Rated Bullet  1-0 1429 1545 Bishop's Opening: Berlin Defense
+Rated Blitz  1-0 1994 1678 Sicilian Defense: Closed Variation, Fianchetto Variation
+Rated Blitz  1-0 1595 1618 Queen's Pawn
+Rated Classical  0-1 1593 1714 Hungarian Opening: Sicilian Invitation
+Rated Classical  1-0 1500 1674 Queen's Pawn Game: Zukertort Variation
+Rated Bullet  0-1 2113 1851 Benoni Defense
+Rated Classical  0-1 1791 1673 Van't Kruijs Opening
+Rated Bullet  0-1 1505 2089 Sicilian Defense: McDonnell Attack
+Rated Blitz  1-0 1681 1616 Four Knights Game: Italian Variation
+Rated Bullet  1-0 1616 1532 Indian Game
+Rated Classical  0-1 1407 1366 Van't Kruijs Opening
+Rated Classical  1-0 1688 1754 Italian Game: Classical Variation, Giuoco Pianissimo
+Rated Blitz  1-0 1452 1670 Pirc Defense #4
+Rated Classical  0-1 1560 1813 Ruy Lopez: Classical Variation
+Rated Blitz  0-1 2000 1831 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  1-0 1709 1811 Queen's Gambit Declined: Modern Variation
+Rated Classical  0-1 1494 1589 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Bullet  0-1 1454 1500 Bishop's Opening
+Rated Blitz  0-1 1606 1606 Slav Defense
+Rated Blitz  0-1 1515 1724 Italian Game: Giuoco Pianissimo
+Rated Classical  0-1 1453 1554 King's Knight Opening: Normal Variation
+Rated Classical  0-1 1724 1583 English Opening: King's English Variation, Two Knights Variation
+Rated Classical  1-0 1336 1300 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Bullet  0-1 1624 1523 Queen's Pawn Game #3
+Rated Classical  0-1 1507 1726 Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation
+Rated Classical  1-0 1646 1568 Scotch Game
+Rated Classical  1-0 1366 1257 Queen's Gambit Accepted
+Rated Classical  0-1 1673 1500 French Defense: La Bourdonnais Variation
+Rated Bullet  1-0 2090 1440 Queen's Gambit Refused: Chigorin Defense #3
+Rated Classical  1-0 1454 1247 Queen's Pawn Game: Mason Attack
+Rated Bullet  0-1 1654 1925 Horwitz Defense
+Rated Classical  0-1 1319 1331 Queen's Pawn Game: Anti-Torre
+Rated Blitz  0-1 1858 1699 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1741 1701 King's Pawn Game
+Rated Classical  1-0 1422 1373 King's Pawn Game: Wayward Queen Attack
+Rated Classical  1-0 1610 1230 Sicilian Defense: Smith-Morra Gambit Declined, Push Variation
+Rated Bullet  0-1 1439 2091 Sicilian Defense: Bowdler Attack
+Rated Classical  0-1 1367 1654 Van't Kruijs Opening
+Rated Blitz  1-0 1810 1617 Ruy Lopez
+Rated Classical  0-1 1500 1534 Sicilian Defense: Alapin Variation
+Rated Bullet  1-0 1604 1255 Queen's Pawn
+Rated Classical  0-1 1380 1394 Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation
+Rated Blitz  1-0 1498 1423 Italian Game: Anti-Fried Liver Defense
+Rated Blitz  1-0 1311 1261 Polish Opening
+Rated Blitz  1-0 1846 1803 Queen's Indian Accelerated
+Rated Bullet  0-1 1929 1610 English Opening: Anglo-Scandinavian Defense
+Rated Bullet  0-1 1437 1637 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1555 1560 Ruy Lopez: Bird Variation
+Rated Bullet  1-0 2091 1370 Queen's Gambit Refused: Chigorin Defense #3
+Rated Classical  0-1 1549 1411 Queen's Pawn Game: Mason Attack
+Rated Bullet  0-1 1629 1909 Queen's Pawn Game #3
+Rated Blitz  0-1 1422 1440 Van't Kruijs Opening
+Rated Blitz  1-0 1605 1265 Queen's Pawn Game
+Rated Bullet  0-1 1427 1496 Modern Defense
+Rated Blitz  0-1 1320 1729 Polish Opening: Czech Defense
+Rated Classical  1-0 1907 1767 Philidor Defense: Hanham Variation
+Rated Classical  0-1 1567 1685 Sicilian Defense
+Rated Classical  1-0 1601 1549 King's Pawn Game: Wayward Queen Attack
+Rated Classical  1-0 1565 1664 Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation
+Rated Bullet  1-0 1913 1625 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  0-1 1603 1704 English Opening: Symmetrical Variation, Normal Variation
+Rated Blitz  1/2-1/2 1660 1728 Vienna Game: Max Lange Defense
+Rated Bullet  0-1 1506 1409 Van't Kruijs Opening
+Rated Bullet  0-1 1469 1685 Zukertort Opening: Tennison Gambit
+Rated Classical  1-0 1611 1612 English Opening: The Whale
+Rated Bullet  0-1 1621 1917 Hungarian Opening: Sicilian Invitation
+Rated Blitz  0-1 1404 1433 Nimzowitsch Defense: Scandinavian Variation, Exchange Variation, Marshall Gambit
+Rated Classical  1-0 1541 1340 Philidor Defense #3
+Rated Bullet  0-1 1463 1722 French Defense: Knight Variation
+Rated Classical  1-0 1591 1248 Bishop's Opening
+Rated Classical  1-0 1612 1486 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1502 1562 King's Gambit Accepted, Fischer Defense
+Rated Classical  0-1 1481 1517 Sicilian Defense: Alapin Variation
+Rated Bullet  1-0 1618 1538 Indian Game
+Rated Bullet  0-1 1459 1491 Modern Defense
+Rated Classical  1-0 1672 1612 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1479 1632 Scandinavian Defense
+Rated Classical  0-1 1714 1593 Sicilian Defense: Closed Variation, Traditional
+Rated Classical  1-0 1364 1343 Queen's Gambit Refused: Marshall Defense
+Rated Bullet  1/2-1/2 1921 1749 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1351 1768 English Opening: The Whale
+Rated Blitz  0-1 1600 1731 French Defense: MacCutcheon, Advance Variation
+Rated Classical  1-0 1719 1731 Sicilian Defense: French Variation, Open
+Rated Classical  1-0 1560 1554 Philidor Defense: Exchange Variation #2
+Rated Classical  1-0 1405 1368 Kadas Opening
+Rated Blitz  1-0 1258 1318 King's Pawn Game: Wayward Queen Attack
+Rated Classical  0-1 1682 1686 Italian Game: Hungarian Defense
+Rated Bullet  1-0 1777 1916 Queen's Pawn Game: Torre Attack, Gossip Variation
+Rated Classical  1-0 1374 1332 Queen's Gambit Declined
+Rated Blitz  0-1 1393 1726 Ruy Lopez: Berlin Defense, Beverwijk Variation
+Rated Blitz  0-1 1410 1197 King's Pawn Game: Leonardis Variation
+Rated Bullet  1-0 1626 1502 Modern Defense
+Rated Blitz  1-0 1409 1728 Vienna Game: Stanley Variation, Reversed Spanish
+Rated Classical  1-0 1601 1622 King's Pawn Game: Nimzowitsch Defense
+Rated Bullet  0-1 1529 1852 Van't Kruijs Opening
+Rated Blitz  1-0 1305 1275 Polish Opening
+Rated Bullet  0-1 1448 1634 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Blitz  0-1 1738 1783 Nimzo-Indian Defense #2
+Rated Classical  1/2-1/2 1760 1679 Alekhine Defense
+Rated Bullet  1-0 1866 1526 Torre Attack #2
+Rated Classical  0-1 1458 1384 Scotch Game
+Rated Classical  0-1 1635 1451 Philidor Defense #2
+Rated Bullet  1-0 1639 1442 Queen's Pawn Game: Colle System, Anti-Colle
+Rated Classical  0-1 1399 1397 Ruy Lopez
+Rated Bullet  0-1 1523 1878 Hungarian Opening
+Rated Classical  0-1 1909 1914 Queen's Gambit Declined: Normal Defense
+Rated Blitz  1-0 1262 1315 King's Pawn Game: Wayward Queen Attack
+Rated Blitz  0-1 1592 1729 Queen's Pawn Game: Chigorin Variation
+Rated Classical  1-0 1611 1695 King's Pawn Game: Mengarini's Opening
+Rated Classical  1-0 1347 1616 Queen's Gambit Refused: Marshall Defense
+Rated Bullet  1-0 1514 1494 Modern Defense
+Rated Blitz  1-0 1391 1389 King's Gambit Accepted, Bishop's Gambit, Maurian Defense
+Rated Classical  1-0 1492 1644 Sicilian Defense: Smith-Morra Gambit
+Rated Classical  0-1 1471 1530 Sicilian Defense: Alapin Variation
+Rated Bullet  1-0 1889 1520 Alekhine Defense: Krejcik Variation
+Rated Classical  1-0 1729 1547 Sicilian Defense: Smith-Morra Gambit #2
+Rated Classical  0-1 1594 1460 Bishop's Opening: Boi Variation
+Rated Blitz  0-1 1429 1769 Bishop's Opening
+Rated Blitz  1-0 1792 1728 Giuoco Piano
+Rated Blitz  1-0 2065 1735 Queen's Pawn Game #2
+Rated Classical  1-0 1597 1370 Sicilian Defense: Lasker-Pelikan Variation, Retreat Variation
+Rated Bullet  0-1 1517 1899 Zukertort Opening: Queen's Gambit Invitation
+Rated Blitz  1-0 1403 1415 King's Pawn Game: Nimzowitsch Defense
+Rated Classical  1-0 1629 1537 Philidor Defense #2
+Rated Classical  0-1 1407 1582 Ruy Lopez: Steinitz Defense
+Rated Blitz  1-0 1427 1425 Queen's Pawn Game: Chigorin Variation
+Rated Bullet  1-0 1907 1484 Modern Defense
+Rated Bullet  0-1 1481 1914 Van't Kruijs Opening
+Rated Bullet  1-0 1436 1514 Russian Game: Three Knights Game
+Rated Blitz  1-0 1719 1801 Nimzo-Indian Defense #2
+Rated Classical  1/2-1/2 1645 1757 Queen's Pawn Game
+Rated Classical  1-0 1651 1476 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1585 1762 Modern Defense: Standard Defense
+Rated Blitz  0-1 1855 1732 Queen's Pawn Game: Chigorin Variation
+Rated Classical  1-0 1678 1628 Queen's Pawn Game: Zukertort Variation
+Rated Bullet  1/2-1/2 1921 1645 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1424 1407 Scotch Game
+Rated Classical  1-0 1671 1719 Horwitz Defense
+Rated Blitz  1-0 1414 1404 French Defense: Steinitz Attack
+Rated Classical  0-1 1509 1630 King's Gambit Accepted, Schallopp Defense
+Rated Blitz  1-0 1841 1785 Sicilian Defense: Closed
+Rated Classical  0-1 1579 1903 French Defense #2
+Rated Classical  1/2-1/2 1616 1690 English Opening: Caro-Kann Defensive System
+Rated Bullet  1-0 1499 1450 Zukertort Opening: Black Mustang Defense
+Rated Blitz  1-0 1451 1449 Queen's Pawn Game: Mason Attack
+Rated Classical  0-1 1708 1903 Nimzo-Larsen Attack: Classical Variation
+Rated Blitz  0-1 1788 1733 King's Gambit Declined, Keene Defense
+Rated Classical  1-0 1879 1711 Indian Game: East Indian Defense
+Rated Bullet  1-0 1459 1601 Owen Defense
+Rated Blitz  0-1 1414 1439 King's Pawn Game: Damiano Defense
+Rated Classical  1-0 1397 1345 Queen's Gambit Declined: Normal Defense
+Rated Bullet  1-0 1565 1763 Italian Game: Giuoco Pianissimo
+Rated Blitz  0-1 1393 1425 King's Pawn Game: Wayward Queen Attack, Kiddie Countergambit
+Rated Classical  1-0 1670 1769 Sicilian Defense: French Variation
+Rated Blitz  0-1 1499 1718 Bishop's Opening
+Rated Bullet  1-0 1440 1510 Alekhine Defense: John Tracy Gambit
+Rated Blitz  1-0 1791 1714 Hungarian Opening: Catalan Formation
+Rated Blitz  0-1 1449 1404 Queen's Pawn Game: Zukertort Variation
+Rated Blitz  0-1 1746 1775 Benoni Defense: King's Pawn Line
+Rated Bullet  1-0 1474 1583 Owen Defense
+Rated Classical  0-1 1508 1597 Queen's Gambit Accepted: Rosenthal Variation
+Rated Bullet  0-1 1495 1454 Van't Kruijs Opening
+Rated Classical  0-1 1602 1610 King's Pawn Game: Nimzowitsch Defense
+Rated Classical  1-0 1754 1434 Sicilian Defense: Staunton-Cochrane Variation
+Rated Bullet  1-0 1566 1489 King's Pawn Game: Wayward Queen Attack
+Rated Classical  0-1 1403 1706 Sicilian Defense: Closed Variation
+Rated Blitz  1-0 1785 1735 King's Pawn Game: Tayler Opening
+Rated Bullet  0-1 1467 1482 Russian Game: Urusov Gambit
+Rated Blitz  0-1 1494 1462 King's Pawn Game: Leonardis Variation
+Rated Blitz  1-0 1714 1374 Danish Gambit Accepted, Classical Defense
+Rated Classical  1/2-1/2 1576 1607 King's Pawn Game: Napoleon Attack
+Rated Blitz  0-1 1841 1800 Modern Defense
+Rated Blitz  0-1 1525 1543 Italian Game: Two Knights Defense, Knight Attack, Normal Variation
+Rated Classical  0-1 1621 1591 English Opening: The Whale
+Rated Classical  1-0 1575 1418 Russian Game: Urusov Gambit
+Rated Blitz  1-0 1579 1586 Indian Game
+Rated Classical  1-0 1797 1681 Danish Gambit
+Rated Bullet  1-0 1493 1456 Ruy Lopez: Classical Variation
+Rated Classical  1-0 1603 1609 Sicilian Defense: Old Sicilian
+Rated Blitz  0-1 1437 1630 Van't Kruijs Opening
+Rated Bullet  1-0 1757 1901 Queen's Gambit Declined: Normal Defense
+Rated Bullet  1-0 1884 1772 Slav Defense #2
+Rated Blitz  0-1 1575 1482 Pirc Defense #2
+Rated Classical  1-0 1798 1909 Queen's Pawn Game: Chigorin Variation
+Rated Classical  0-1 1906 1752 Philidor Defense: Exchange Variation
+Rated Blitz  1-0 1531 1500 Indian Game: Anti-Nimzo-Indian
+Rated Blitz  1-0 1717 1568 French Defense: Normal Variation
+Rated Classical  0-1 1534 1528 Philidor Defense #3
+Rated Blitz  1-0 1486 1339 Sicilian Defense: Bowdler Attack
+Rated Bullet  0-1 1900 1757 English Opening: Symmetrical Variation, Two Knights Variation
+Rated Classical  1-0 1684 1652 Horwitz Defense
+Rated Bullet  1-0 1773 1884 Italian Game: Hungarian Defense
+Rated Blitz  1-0 1435 1517 French Defense: Advance Variation #2
+Rated Blitz  0-1 1558 1495 Queen's Pawn Game: Krause Variation
+Rated Classical  1-0 1468 1589 Queen's Pawn Game #3
+Rated Bullet  0-1 1765 1893 Scandinavian Defense: Mieses-Kotroc Variation
+Rated Classical  1-0 1598 1615 King's Pawn Game: Wayward Queen Attack
+Rated Classical  1-0 1505 1532 Philidor Defense #2
+Rated Blitz  1-0 1505 1496 Zukertort Opening: Tennison Gambit
+Rated Bullet  1-0 1869 1787 Bird Opening
+Rated Classical  1-0 1757 1628 Sicilian Defense: Staunton-Cochrane Variation
+Rated Classical  0-1 1461 1583 King's Pawn Game: Napoleon Attack
+Rated Classical  1-0 1519 1521 Scotch Game
