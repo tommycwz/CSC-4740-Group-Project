@@ -24,13 +24,13 @@ for x in f:
   if (x[1:6:1] == "Event"):
     line = x[8:-8:1]
   elif (x[1:7:1] == "Result"):
-    line = line + "-" + x[9:-3:1]
+    line = line + "/" + x[9:-3:1]
   elif (x[1:9:1] == "WhiteElo"):
-    line = line + "-" + x[11:-3:1]
+    line = line + "/" + x[11:-3:1]
   elif (x[1:9:1] == "BlackElo"):
-    line = line + "-" + x[11:-3:1]
+    line = line + "/" + x[11:-3:1]
   elif (x[1:8:1] == "Opening"):
-    line = line + "-" + x[10:-3:1]
+    line = line + "/" + x[10:-3:1]
     lines.append(line)
 
 outty = open("formatedLichessData.txt", "w")
