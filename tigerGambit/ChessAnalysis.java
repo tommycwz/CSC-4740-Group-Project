@@ -32,10 +32,10 @@ public class ChessAnalysis {
 	    job.setMapOutputValueClass(Text.class);
 
 	    job.setOutputKeyClass(Text.class);
-	    job.setOutputValueClass(IntWritable.class);
+	    job.setOutputValueClass(Text.class);
 
-	    job.setPartitionerClass(ChessPartitioner.class);
-	    job.setNumReduceTasks(3);
+	    //job.setPartitionerClass(ChessPartitioner.class);
+	    job.setNumReduceTasks(0);
 	    
 	    boolean success = job.waitForCompletion(true);
 	    System.exit(success ? 0 : 1);
