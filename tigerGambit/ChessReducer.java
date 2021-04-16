@@ -53,12 +53,11 @@ public class ChessReducer extends Reducer<Text, Text, Text, Text> {
 	  
 	  for (Entry<String, Integer> entry : Openings.entrySet()) {
           if (entry.getValue().equals(max)) {
-        	  
         	  context.write(key, new Text(entry.getKey()));
           }
       }   
 	  
-	  
+	  Openings.clear();
   }
 }
 

@@ -59,7 +59,7 @@ public class ChessMapper extends Mapper<LongWritable, Text, Text, Text> {
 		  /* Else if set winner string to draw and set elo to the average of both players elo */
 		  else if(result.equalsIgnoreCase("1/2-1/2")){
 			  winner = "draw";
-			  winnerElo = Math.round(whiteElo + blackElo / 2);
+			  winnerElo = Math.round((whiteElo + blackElo) / 2);
 		  }
 		  /* Otherwise output an error due to format */
 		  else{
