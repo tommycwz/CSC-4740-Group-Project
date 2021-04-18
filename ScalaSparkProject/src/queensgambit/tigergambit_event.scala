@@ -10,6 +10,8 @@ import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.mapreduce.Job
 import java.text.SimpleDateFormat
 import java.util.Date
+import java.io.File
+import org.apache.commons.io.FileUtils
 import org.apache.spark.{SparkContext, SparkConf}
 
 
@@ -24,6 +26,9 @@ object tigergambit_event {
     val conf = new SparkConf().setAppName("Test").setMaster("local[2]")
     val sc = new SparkContext(conf)
     sc.hadoopConfiguration.set("textinputformat.record.delimiter", "[Event")
+
+    //Delete File When Start
+    FileUtils.deleteQuietly(new File("output_rated"))
 
     //INPUT FILE
     val getFile = sc.textFile("lichess_db_standard_rated_2013-01.pgn").filter(b => b.length > 0)
