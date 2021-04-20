@@ -15,10 +15,14 @@ Original file is located at
 #     GameMode Result WhiteElo BlackElo Opening
 #
 
+import time
+
+
 f = open("lichessData.txt", "r")
 
 line = ""
 lines = []
+start = time.time()
 
 for x in f:
   if (x[1:6:1] == "Event"):
@@ -37,3 +41,7 @@ outty = open("formatedLichessData.txt", "w")
 for input in lines:
   outty.write(input + "\n")
 outty.close()
+
+time.sleep(1)
+end = time.time()
+print("Run Time: " , end-start)
