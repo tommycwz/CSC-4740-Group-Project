@@ -29,16 +29,14 @@ public class ChessReducer extends Reducer<Text, Text, Text, Text> {
 	   **************************************************************/
 	  
 	  
-	  /* Set gametype, elo, and opening to strings */
-	  //String gameType = spt[0];
-	  //String elo = spt[1];
+	  /* Set elo, and opening to strings */
 	  String opening = "";
 	  
 	  for (Text value : values) {
 		  /*  Split values into individual strings into spt array */
 		  String line = value.toString();
 		  String[] spt = line.split("=");
-		  opening = spt[2];
+		  opening = spt[1];
 		  
 		  /* if opening is not in the hashmap then add it */
 		  if(!Openings.containsKey(opening)){
@@ -51,12 +49,14 @@ public class ChessReducer extends Reducer<Text, Text, Text, Text> {
 	  /* Get max count */
 	  int max = Collections.max(Openings.values());
 	  
+	  /* Find the entries where the count is equal to max. 
+	   * If equal to max, then write to file */
 	  for (Entry<String, Integer> entry : Openings.entrySet()) {
           if (entry.getValue().equals(max)) {
         	  context.write(key, new Text(entry.getKey()));
           }
       }   
-	  
+	  /* Clear hashmap */
 	  Openings.clear();
   }
 }

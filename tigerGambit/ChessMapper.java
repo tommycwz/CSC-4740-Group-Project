@@ -1,6 +1,5 @@
 package tigerGambit;
 import java.io.IOException;
-
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
@@ -22,10 +21,8 @@ public class ChessMapper extends Mapper<LongWritable, Text, Text, Text> {
 		  String[] spt = line.split("=");
 		  
 		  /*
-		   * rule stores game type
 		   * result stores game result
 		   */
-		  String rule = spt[0];
 		  String result = spt[1];
 		  
 		  /*
@@ -67,10 +64,10 @@ public class ChessMapper extends Mapper<LongWritable, Text, Text, Text> {
 		  }
 		  
 		  /*
-		   * Create a new string to hold gametype, winner's elo, and opening using
+		   * Create a new string to hold winner's elo, and opening using
 		   *    = as the delimiter.
 		   */
-		  String val = rule + "=" + winnerElo + "=" + opening;
+		  String val = winnerElo + "=" + opening;
 		  
 		  /*
 		   *  if winner and value isnt empty, create a new context to pass to reducer

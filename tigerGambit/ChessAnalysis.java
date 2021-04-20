@@ -35,7 +35,7 @@ public class ChessAnalysis {
 	    job.setOutputValueClass(Text.class);
 
 	    job.setPartitionerClass(ChessPartitioner.class);
-	    job.setNumReduceTasks(7);
+	    job.setNumReduceTasks(10);
 	    
 	    boolean success = job.waitForCompletion(true);
 	    System.exit(success ? 0 : 1);
